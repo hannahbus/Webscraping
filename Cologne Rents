@@ -1,0 +1,914 @@
+,Rent,Rooms,Size,Location,Pets,Bathroom,Flat Type
+0,1550.0,3.0,115.0,"50933 Köln, Müngersdorf",Missing,2.0, Etagenwohnung 
+1,384.56,2.0,61.53,"50765 Köln, Chorweiler", Nach Vereinbarung ,1.0, Etagenwohnung 
+2,1595.0,5.0,145.0,51067 Köln,Missing,2.0, Maisonette 
+3,1690.0,3.0,122.0,"50933 Köln, Müngersdorf",Missing,-1.0, Etagenwohnung 
+4,750.0,2.0,60.0,"50667 Köln, Altstadt & Neustadt-Nord", Nein ,1.0,Missing
+5,1357.0,3.5,120.06,"51149 Köln, Porz",Missing,-1.0, Etagenwohnung 
+6,1029.0,4.0,97.2,"50858 Köln, Weiden", Nach Vereinbarung ,1.0, Etagenwohnung 
+7,313.0,2.0,41.7,51147 Köln,Missing,1.0, Sonstige 
+8,1995.0,3.0,155.0,"50997 Köln, Meschenich", Ja ,2.0, Maisonette 
+9,1830.0,2.0,95.0,"50670 Köln, Altstadt & Neustadt-Nord",Missing,1.0, Etagenwohnung 
+10,760.0,1.0,51.57,"50968 Köln, Bayenthal",Missing,1.0, Erdgeschosswohnung 
+11,1081.7,2.0,74.6,50672 Köln,Missing,1.0, Terrassenwohnung 
+12,649.0,1.0,35.3,"50823 Köln, Neuehrenfeld",Missing,1.0, Etagenwohnung 
+13,630.0,1.0,33.66,"50823 Köln, Neuehrenfeld",Missing,1.0, Etagenwohnung 
+14,890.0,1.0,40.0,"50670 Köln / Neustadt-Nord, Altstadt & Neustadt-Nord",Missing,-1.0, Etagenwohnung 
+15,549.0,1.0,24.43,"50823 Köln, Neuehrenfeld",Missing,1.0, Etagenwohnung 
+16,849.0,2.0,45.16,"50823 Köln, Neuehrenfeld",Missing,1.0, Etagenwohnung 
+17,1400.0,4.0,130.0,"51105 Köln, Poll", Nein ,2.0, Maisonette 
+18,1081.0,1.0,94.0,"50968 Köln, Raderthal", Nein ,1.0, Loft 
+19,599.0,1.0,30.7,"50823 Köln, Neuehrenfeld",Missing,1.0, Etagenwohnung 
+20,1600.0,3.0,98.0,"50678 Köln, Altstadt & Neustadt-Süd", Nein ,1.0, Etagenwohnung 
+21,1200.0,2.0,105.0,"50677 Köln, Altstadt & Neustadt-Süd", Nach Vereinbarung ,2.0, Souterrain 
+22,2150.0,4.0,147.44,"50968 Köln, Marienburg", Nach Vereinbarung ,2.0, Etagenwohnung 
+23,820.0,3.0,81.0,"50997 Köln, Rondorf", Nein ,1.0, Hochparterre 
+24,495.0,1.0,50.0,"51149 Köln, Westhoven", Nein ,1.0, Etagenwohnung 
+25,1600.0,3.0,144.0,"50679 Köln, Deutz", Nach Vereinbarung ,2.0, Etagenwohnung 
+26,1195.0,3.0,75.0,"50823 Köln, Ehrenfeld", Nach Vereinbarung ,1.0, Terrassenwohnung 
+27,940.0,3.0,84.0,"50859 Köln - Weiden, Köln", Nach Vereinbarung ,1.0, Erdgeschosswohnung 
+28,970.0,4.0,105.0,"50823 Köln, Neuehrenfeld", Nach Vereinbarung ,2.0, Erdgeschosswohnung 
+29,1395.0,3.0,98.0,50937 Köln, Nach Vereinbarung ,1.0, Etagenwohnung 
+30,1260.0,2.0,42.0,"50667 Köln, Altstadt & Neustadt-Nord", Nein ,1.0, Hochparterre 
+31,1000.0,5.0,114.0,"51147 Köln, Wahn", Ja ,1.0, Sonstige 
+32,3900.0,4.0,216.0,50672 Köln, Ja ,1.0, Penthouse 
+33,1850.0,3.5,102.4,"50935 Köln, Lindenthal", Nach Vereinbarung ,2.0, Dachgeschoss 
+34,1950.0,3.0,145.0,50996 Köln,Missing,1.0, Maisonette 
+35,3880.0,4.0,240.0,50933 Köln,Missing,2.0, Etagenwohnung 
+36,1140.0,4.0,121.8,"50931 Köln, Lindenthal", Nach Vereinbarung ,2.0, Etagenwohnung 
+37,995.0,2.0,47.0,50672 Köln,Missing,1.0, Etagenwohnung 
+38,998.7,3.0,74.0,"50735 Köln, Niehl",Missing,1.0, Etagenwohnung 
+39,1500.0,3.0,82.0,"50825 Köln, Ehrenfeld", Nein ,1.0, Dachgeschoss 
+40,780.0,2.0,65.0,51103 Köln, Nein ,1.0, Dachgeschoss 
+41,1300.0,4.0,129.0,51109 Köln, Nach Vereinbarung ,2.0, Etagenwohnung 
+42,1430.0,2.0,119.0,50968 Köln ,Missing,1.0,Missing
+43,595.0,3.0,70.0,"50859 Köln, Widdersdorf",Missing,1.0, Etagenwohnung 
+44,650.0,3.0,77.15,51109 Köln,Missing,1.0, Etagenwohnung 
+45,690.0,3.0,53.37,"50737 Köln, Weidenpesch",Missing,-1.0, Maisonette 
+46,1440.0,3.0,96.0,50968 Köln, Nein ,1.0, Erdgeschosswohnung 
+47,1100.0,3.0,104.0,50859 Köln, Nach Vereinbarung ,1.0, Erdgeschosswohnung 
+48,780.0,2.5,65.0,51103 Köln, Nein ,1.0, Dachgeschoss 
+49,429.6,2.0,60.4,"51105 Köln (Poll/Humbold), Humboldt/Gremberg", Nein ,1.0, Etagenwohnung 
+50,2244.0,5.0,187.0,50931 Köln,Missing,2.0, Dachgeschoss 
+51,780.0,2.0,58.2,"50933 Köln, Braunsfeld",Missing,1.0, Etagenwohnung 
+52,1080.0,4.0,195.0,"51103 Köln, Kalk",Missing,1.0, Etagenwohnung 
+53,1730.0,4.0,142.4,"50968 Köln, Bayenthal",Missing,2.0, Maisonette 
+54,1261.75,3.0,103.0,51067 Köln,Missing,2.0, Sonstige 
+55,1140.0,4.0,85.12,"50737 Köln, Weidenpesch",Missing,-1.0, Dachgeschoss 
+56,600.0,2.0,58.0,50767 Köln,Missing,1.0, Dachgeschoss 
+57,1400.0,4.0,116.26,"50737 Köln, Weidenpesch",Missing,-1.0, Maisonette 
+58,1250.0,4.0,91.23,"50737 Köln, Weidenpesch",Missing,-1.0, Maisonette 
+59,700.0,2.0,52.0,"50937 Köln, Lindenthal",Missing,1.0, Etagenwohnung 
+60,540.0,2.0,48.44,"51149 Köln, Porz",Missing,1.0, Etagenwohnung 
+61,930.0,3.0,80.0,"51065 Köln, Mülheim",Missing,-1.0, Etagenwohnung 
+62,1969.5,5.0,151.5,"50939 Köln, Sülz", Nach Vereinbarung ,1.0, Etagenwohnung 
+63,820.0,2.0,72.1,"50737 Köln, Weidenpesch",Missing,-1.0, Etagenwohnung 
+64,480.0,1.0,19.0,"50674 Köln, Altstadt & Neustadt-Süd",Missing,-1.0, Erdgeschosswohnung 
+65,1030.0,3.0,90.79,"51065 Köln, Mülheim",Missing,-1.0, Etagenwohnung 
+66,660.0,2.0,63.0,"50858 Köln, Weiden",Missing,-1.0, Etagenwohnung 
+67,1240.0,3.0,68.0,50939 Köln,Missing,1.0, Etagenwohnung 
+68,1240.0,3.0,68.0,50939 Köln,Missing,1.0, Etagenwohnung 
+69,440.0,1.0,38.0,"50827 Köln, Bickendorf", Nein ,1.0, Etagenwohnung 
+70,750.0,1.5,50.0,"50668 Köln, Altstadt & Neustadt-Nord",Missing,-1.0, Etagenwohnung 
+71,420.0,1.0,33.0,"50858 Köln, Weiden",Missing,-1.0, Etagenwohnung 
+72,750.0,4.0,83.0,51069 Köln,Missing,1.0, Etagenwohnung 
+73,680.0,2.0,68.0,"50735 Köln, Riehl", Nach Vereinbarung ,1.0, Maisonette 
+74,990.0,1.0,45.0,"50670 Köln / Neustadt-Nord, Altstadt & Neustadt-Nord",Missing,1.0, Etagenwohnung 
+75,1490.0,3.0,100.0,50968 Köln,Missing,-1.0, Etagenwohnung 
+76,1425.0,3.0,95.0,"50825 Köln, Ehrenfeld", Nein ,1.0, Etagenwohnung 
+77,520.0,2.0,52.0,"50859 Köln, Lövenich",Missing,1.0, Etagenwohnung 
+78,624.6,2.0,64.04,"51149 Köln, Ensen, Köln", Nach Vereinbarung ,1.0, Etagenwohnung 
+79,1261.0,3.0,97.0,"50823 Köln, Ehrenfeld", Nein ,1.0, Etagenwohnung 
+80,990.0,3.0,85.0,"50829 Köln, Ossendorf",Missing,1.0, Etagenwohnung 
+81,900.0,2.0,80.08,51109 Köln,Missing,-1.0, Erdgeschosswohnung 
+82,1350.0,3.0,104.0,"50999 Köln, Rodenkirchen", Nach Vereinbarung ,1.0, Etagenwohnung 
+83,1490.0,4.0,120.0,"50672 Köln, Altstadt & Neustadt-Nord", Nein ,2.0, Maisonette 
+84,1300.0,4.0,135.6,"51145 Köln, Urbach",Missing,1.0, Etagenwohnung 
+85,766.0,3.0,82.4,"50827 Köln, Bickendorf",Missing,1.0, Etagenwohnung 
+86,1800.0,3.5,104.0,50823 Köln OT Neuehrenfeld,Missing,-1.0, Etagenwohnung 
+87,850.0,3.5,98.0,"51145 Köln (Porz-Eil), Eil", Nach Vereinbarung ,1.0, Etagenwohnung 
+88,704.0,3.0,70.37,"50737 Köln, Weidenpesch", Nach Vereinbarung ,1.0, Etagenwohnung 
+89,900.0,1.0,40.0,50859 Köln,Missing,1.0, Dachgeschoss 
+90,637.0,3.0,70.0,"51103 Köln, Höhenberg", Nach Vereinbarung ,1.0, Erdgeschosswohnung 
+91,583.0,1.5,29.31,"50969 Köln, Zollstock", Nach Vereinbarung ,1.0, Etagenwohnung 
+92,520.81,3.0,83.33,"50765 Köln, Chorweiler", Nach Vereinbarung ,1.0, Etagenwohnung 
+93,885.0,2.0,77.0,"50859 Köln, Widdersdorf", Nein ,1.0, Erdgeschosswohnung 
+94,1700.0,4.0,122.0,"50931 Köln, Lindenthal", Nach Vereinbarung ,2.0, Penthouse 
+95,567.0,2.0,63.0,51109 Köln,Missing,1.0, Erdgeschosswohnung 
+96,450.0,1.0,40.0,"51103 Köln Kalk, Köln",Missing,1.0, Dachgeschoss 
+97,630.0,3.0,76.0,"50997 Köln, Immendorf", Nach Vereinbarung ,1.0, Etagenwohnung 
+98,795.0,3.0,67.0,"51109 Köln, Brück", Nein ,1.0, Dachgeschoss 
+99,895.0,2.0,72.0,"50858 Köln, Junkersdorf", Nein ,1.0, Penthouse 
+100,1550.0,4.0,111.0,"50968 Köln / Marienburg, Köln",Missing,2.0, Erdgeschosswohnung 
+101,790.0,2.0,54.6,"50996 Köln, Rodenkirchen",Missing,1.0, Etagenwohnung 
+102,2660.0,3.0,127.45,50935 Köln, Nach Vereinbarung ,2.0, Hochparterre 
+103,450.0,1.0,33.0,"50825 Köln, Ehrenfeld", Nach Vereinbarung ,1.0, Etagenwohnung 
+104,1840.0,4.0,131.3,"50996 Köln, Rodenkirchen",Missing,2.0, Maisonette 
+105,1470.0,4.0,120.0,51067 Köln,Missing,2.0, Erdgeschosswohnung 
+106,535.0,2.0,50.0,"51103 Köln, Kalk",Missing,1.0, Dachgeschoss 
+107,1590.0,4.0,121.9,"50996 Köln, Rodenkirchen",Missing,2.0, Erdgeschosswohnung 
+108,1650.0,3.0,114.0,50672 Köln, Nein ,1.0, Penthouse 
+109,1060.0,2.0,88.59,51149 Köln, Nach Vereinbarung ,1.0, Etagenwohnung 
+110,1100.0,3.0,90.0,"50670 Köln, Altstadt & Neustadt-Nord", Nein ,1.0, Etagenwohnung 
+111,720.0,4.0,89.57,51109 Köln,Missing,1.0, Etagenwohnung 
+112,800.0,2.0,72.8,"50737 Köln-Weidenpesch, Köln", Nach Vereinbarung ,1.0, Etagenwohnung 
+113,900.0,4.0,100.0,"51067 Köln, Holweide", Nach Vereinbarung ,2.0, Etagenwohnung 
+114,700.0,2.0,56.0,"51107 Köln / Rath/Heumar, Köln",Missing,1.0, Etagenwohnung 
+115,1116.66,2.0,70.23,"51063 Köln, Mülheim", Nach Vereinbarung ,1.0, Etagenwohnung 
+116,650.0,3.0,74.0,"50769 Köln, Worringen", Nach Vereinbarung ,1.0, Dachgeschoss 
+117,2500.0,4.0,234.0,"51103 Köln, Kalk",Missing,2.0, Penthouse 
+118,1340.0,4.0,141.0,"50735 Köln, Niehl", Nach Vereinbarung ,2.0, Maisonette 
+119,1380.0,4.0,115.0,"50858 Köln, Junkersdorf", Nach Vereinbarung ,2.0, Maisonette 
+120,830.0,2.0,57.98,"50737 Köln, Weidenpesch",Missing,-1.0, Etagenwohnung 
+121,600.0,1.0,49.0,"50676 Köln, Altstadt & Neustadt-Nord", Nach Vereinbarung ,1.0, Etagenwohnung 
+122,1452.0,2.0,88.0,"50935 Köln, Lindenthal", Nach Vereinbarung ,1.0, Terrassenwohnung 
+123,1150.0,2.5,106.0,"50858 Köln, Weiden",Missing,1.0, Penthouse 
+124,450.0,1.5,28.0,51147 Köln, Nein ,1.0, Souterrain 
+125,1150.0,3.0,113.0,50858 Köln,Missing,-1.0, Etagenwohnung 
+126,825.0,2.0,57.12,"50737 Köln, Weidenpesch",Missing,-1.0, Etagenwohnung 
+127,915.0,2.0,62.5,50968 Köln,Missing,-1.0, Etagenwohnung 
+128,1550.0,3.0,100.0,"50937 köln, Lindenthal",Missing,1.0, Etagenwohnung 
+129,700.0,2.0,61.0,"51065 Köln, Buchheim", Nach Vereinbarung ,1.0, Etagenwohnung 
+130,1250.0,3.0,102.0,50968 Köln,Missing,-1.0, Etagenwohnung 
+131,740.0,2.0,69.43,"51105 Köln, Humboldt/Gremberg", Nach Vereinbarung ,1.0, Etagenwohnung 
+132,1400.0,1.5,55.0,50668 Köln,Missing,1.0, Sonstige 
+133,890.0,1.0,41.45,50672 Köln, Nein ,1.0, Etagenwohnung 
+134,615.0,2.0,62.0,"51103 Köln, Höhenberg",Missing,1.0, Etagenwohnung 
+135,1330.0,3.0,102.0,"50968 Köln, Bayenthal",Missing,2.0, Etagenwohnung 
+136,1750.0,2.5,136.0,"50668 Köln, Altstadt & Neustadt-Nord",Missing,2.0, Penthouse 
+137,3750.0,3.0,125.45,50672 Köln, Nein ,1.0, Etagenwohnung 
+138,1200.0,2.0,53.0,"50858 Köln, Junkersdorf",Missing,1.0, Etagenwohnung 
+139,1145.0,3.0,89.0,"50968 Köln, Bayenthal", Nach Vereinbarung ,1.0, Etagenwohnung 
+140,2075.0,4.5,189.0,"50735 Köln, Riehl", Nach Vereinbarung ,2.0, Etagenwohnung 
+141,1650.0,4.0,134.0,"51103 Köln, Kalk", Nein ,2.0, Etagenwohnung 
+142,1500.0,3.5,132.0,50935 Köln,Missing,1.0, Hochparterre 
+143,550.0,2.0,55.0,51069 Köln, Nach Vereinbarung ,1.0, Dachgeschoss 
+144,990.0,3.0,98.8,"50829 Köln (Bocklemünd), Bocklemünd/Mengenich", Nach Vereinbarung ,2.0, Maisonette 
+145,1150.0,3.0,85.0,"50667 Köln, Altstadt & Neustadt-Nord", Nach Vereinbarung ,1.0, Etagenwohnung 
+146,1180.0,4.0,78.0,"50858 Köln, Weiden", Nach Vereinbarung ,1.0, Terrassenwohnung 
+147,840.0,2.5,60.0,50679 Köln, Nach Vereinbarung ,1.0, Etagenwohnung 
+148,795.0,4.0,90.0,"51147 Köln, Wahn", Nach Vereinbarung ,1.0, Maisonette 
+149,950.0,3.0,68.0,"50823 Köln, Ehrenfeld", Nach Vereinbarung ,1.0, Etagenwohnung 
+150,990.0,2.5,120.0,"51061 Köln, Flittard", Nein ,1.0, Loft 
+151,605.0,1.0,32.0,"50676 Köln, Altstadt & Neustadt-Süd", Nein ,-1.0, Etagenwohnung 
+152,722.0,1.5,39.0,50670 Köln, Nein ,1.0, Etagenwohnung 
+153,682.0,2.0,55.0,"50999 Köln, Weiß",Missing,1.0, Etagenwohnung 
+154,810.78,2.0,71.95,50825 Köln, Nach Vereinbarung ,1.0, Etagenwohnung 
+155,590.0,2.0,55.0,"50677 Köln, Altstadt & Neustadt-Süd", Nein ,1.0, Dachgeschoss 
+156,2500.0,5.0,206.0,"50935 Köln, Lindenthal",Missing,1.0, Penthouse 
+157,895.0,3.0,80.0,"51109 Köln, Merheim", Nach Vereinbarung ,1.0, Etagenwohnung 
+158,1190.0,4.0,100.0,50969 Köln,Missing,1.0, Etagenwohnung 
+159,1120.0,3.0,80.4,"50672 Köln, Altstadt & Neustadt-Nord", Nein ,1.0, Etagenwohnung 
+160,695.0,3.0,71.0,51109 Köln,Missing,-1.0, Etagenwohnung 
+161,720.0,3.0,74.0,50737 Köln-Longerich, Nein ,1.0, Sonstige 
+162,780.0,3.0,109.0,"51149 Köln, Ensen", Nach Vereinbarung ,1.0, Etagenwohnung 
+163,1000.0,3.0,123.0,"51109 Köln, Merheim", Nach Vereinbarung ,1.0, Etagenwohnung 
+164,820.0,2.0,63.0,"50677 Köln, Altstadt & Neustadt-Süd", Nein ,1.0, Etagenwohnung 
+165,460.0,1.0,120.0,"50823 Köln, Ehrenfeld",Missing,2.0, Erdgeschosswohnung 
+166,870.0,2.0,52.0,50674 Köln,Missing,1.0, Etagenwohnung 
+167,490.0,2.0,50.0,50969 Köln, Nach Vereinbarung ,1.0, Etagenwohnung 
+168,630.0,1.0,30.0,"51107 Köln Höhenberg, Ostheim", Nein ,1.0, Hochparterre 
+169,690.0,1.0,43.0,"51067 Köln, Holweide", Nein ,1.0,Missing
+170,495.0,1.0,35.0,"50859 Köln, Weiden",Missing,1.0, Dachgeschoss 
+171,1260.0,4.0,120.0,"50999 Köln, Rodenkirchen",Missing,1.0, Dachgeschoss 
+172,700.0,4.0,80.0,51107 Köln, Nach Vereinbarung ,-1.0, Maisonette 
+173,1650.0,4.0,125.61,"50999 Köln Sürth, Köln",Missing,2.0, Etagenwohnung 
+174,1000.0,3.0,95.0,"50825 Köln, Neuehrenfeld", Nach Vereinbarung ,1.0, Etagenwohnung 
+175,1690.0,5.0,170.0,"50859 Köln, Weiden", Ja ,2.0, Penthouse 
+176,635.0,3.0,80.0,"51147 Köln Lind, Köln", Nein ,1.0, Erdgeschosswohnung 
+177,794.5,3.0,79.45,"50827 Köln, Ossendorf",Missing,1.0, Etagenwohnung 
+178,1610.0,3.0,115.0,50858 Köln,Missing,1.0, Dachgeschoss 
+179,1670.0,5.0,140.0,"50968 Köln, Marienburg",Missing,2.0, Maisonette 
+180,525.0,2.0,58.0,51067 Köln, Nein ,1.0, Souterrain 
+181,1175.0,4.5,103.0,"50996 Köln-Rodenkirchen, Köln", Nein ,1.0, Etagenwohnung 
+182,690.0,2.0,80.0,51147 Köln,Missing,1.0, Loft 
+183,3250.0,5.0,225.0,"50933 Köln, Braunsfeld",Missing,2.0, Maisonette 
+184,1365.0,4.0,105.0,50733 Köln, Nach Vereinbarung ,1.0, Etagenwohnung 
+185,450.0,2.0,31.68,50668 Köln,Missing,1.0, Etagenwohnung 
+186,625.0,2.0,50.0,"50670 Köln, Altstadt & Neustadt-Nord", Nein ,1.0, Etagenwohnung 
+187,2550.0,5.0,200.0,50933 köln, Nein ,2.0, Maisonette 
+188,1110.0,2.0,63.1,"50676 Köln, Altstadt & Neustadt-Süd",Missing,1.0, Etagenwohnung 
+189,675.0,2.0,72.0,51065 Köln, Nein ,1.0, Maisonette 
+190,650.0,3.0,76.0,"50829 Köln, Bocklemünd/Mengenich", Nein ,1.0, Etagenwohnung 
+191,750.0,2.0,77.0,51061 Köln-Stammheim, Nein ,1.0, Dachgeschoss 
+192,509.0,3.0,53.0,"51069 Köln, Dünnwald", Nein ,1.0, Dachgeschoss 
+193,870.0,2.0,58.0,50668 Köln, Nein ,1.0, Dachgeschoss 
+194,1350.0,3.0,134.0,"50858 Köln, Junkersdorf",Missing,1.0, Etagenwohnung 
+195,880.0,2.0,88.0,"50937 Köln, Sülz",Missing,1.0, Etagenwohnung 
+196,1350.0,4.0,136.29,"51105 Köln, Poll", Nein ,2.0, Terrassenwohnung 
+197,898.0,3.0,75.13,"50859 Köln, Weiden",Missing,2.0,Missing
+198,659.0,3.0,61.0,"61069 Köln, Dünnwald", Nein ,1.0, Etagenwohnung 
+199,600.0,2.0,53.0,"50823 Köln, Neuehrenfeld",Missing,1.0, Etagenwohnung 
+200,850.0,2.0,58.0,50668 Köln, Nach Vereinbarung ,1.0, Sonstige 
+201,1200.0,3.0,115.0,"50968 Köln, Bayenthal",Missing,2.0, Maisonette 
+202,600.0,1.0,68.0,"51069 Köln, Dünnwald",Missing,1.0, Dachgeschoss 
+203,680.0,2.0,66.0,50733 Köln, Nach Vereinbarung ,-1.0, Dachgeschoss 
+204,850.0,3.0,70.0,"50935 Köln, Sülz", Nein ,1.0, Dachgeschoss 
+205,1600.0,3.0,111.0,"50996 Köln, Rodenkirchen", Nach Vereinbarung ,2.0, Etagenwohnung 
+206,2430.0,4.0,135.0,50674 Köln,Missing,2.0, Sonstige 
+207,935.0,2.0,69.22,"50859 Köln, Lövenich", Nach Vereinbarung ,1.0, Etagenwohnung 
+208,345.0,2.0,43.0,"51063 Köln, Mülheim", Nein ,1.0,Missing
+209,650.0,3.0,76.0,50769 Köln, Nein ,1.0, Etagenwohnung 
+210,600.0,1.0,51.0,"50859 Köln - Lövenich, Köln",Missing,1.0, Etagenwohnung 
+211,925.0,3.0,74.0,"50739 Köln-Longerich, Köln", Nein ,1.0, Etagenwohnung 
+212,945.0,4.0,85.0,"50679 Köln, Deutz", Nein ,1.0, Etagenwohnung 
+213,660.0,3.0,65.0,"50769 Köln, Seeberg",Missing,1.0, Etagenwohnung 
+214,580.0,1.0,35.0,"50676 Köln, Altstadt & Neustadt-Süd", Nein ,-1.0, Etagenwohnung 
+215,1750.0,4.0,140.0,50858 Köln Weiden,Missing,1.0, Erdgeschosswohnung 
+216,1300.0,3.0,78.0,"50968 Köln, Marienburg", Nach Vereinbarung ,2.0, Etagenwohnung 
+217,1150.0,3.0,86.0,"50825 Köln, Ehrenfeld", Nach Vereinbarung ,1.0, Hochparterre 
+218,1080.0,2.0,70.0,50968 Köln,Missing,1.0, Etagenwohnung 
+219,1375.0,4.0,102.0,"50969 Köln-Zollstock, Köln", Nach Vereinbarung ,2.0, Etagenwohnung 
+220,700.9,2.0,64.3,"50859 Köln, Lövenich", Nach Vereinbarung ,1.0, Etagenwohnung 
+221,1320.0,3.5,101.0,"50937 Köln, Lindenthal",Missing,1.0, Etagenwohnung 
+222,753.06,3.0,77.0,"50829 Köln, Bocklemünd/Mengenich",Missing,-1.0, Etagenwohnung 
+223,1290.0,4.0,92.0,"50968 Köln, Marienburg",Missing,-1.0, Erdgeschosswohnung 
+224,370.0,1.0,33.0,"51063 Köln-Mülheim, Köln",Missing,1.0, Dachgeschoss 
+225,450.0,2.0,60.0,51143 Köln, Nein ,1.0, Dachgeschoss 
+226,360.0,1.0,35.0,"50858 Köln- Weiden, Köln", Nein ,1.0, Dachgeschoss 
+227,750.0,2.0,65.0,"50937 Köln, Sülz", Nein ,1.0, Dachgeschoss 
+228,860.0,2.0,64.0,"50733 Köln, Nippes", Nach Vereinbarung ,1.0, Etagenwohnung 
+229,1012.5,2.0,81.0,"50735 Köln, Niehl", Nach Vereinbarung ,1.0, Etagenwohnung 
+230,900.0,2.0,92.0,"51065 Köln, Mülheim",Missing,1.0, Etagenwohnung 
+231,950.0,4.0,91.0,51109 Köln,Missing,1.0,Missing
+232,590.0,2.0,58.0,"51103 Köln-Kalk, Köln", Nach Vereinbarung ,1.0, Etagenwohnung 
+233,350.0,1.0,21.0,50678 Köln,Missing,1.0, Etagenwohnung 
+234,1080.0,3.0,108.0,50859 Köln, Nach Vereinbarung ,1.0, Etagenwohnung 
+235,400.0,1.5,32.0,"50827 Köln, Ehrenfeld", Nein ,1.0, Etagenwohnung 
+236,740.0,2.0,65.0,50933 Köln, Nein ,1.0, Etagenwohnung 
+237,522.0,1.5,38.0,"50968 Köln, Bayenthal", Nein ,1.0, Etagenwohnung 
+238,900.0,3.0,73.0,50735 Köln, Ja ,1.0, Etagenwohnung 
+239,610.0,2.0,65.3,51149 Köln, Nein ,1.0, Erdgeschosswohnung 
+240,375.0,1.0,27.0,"51103 Köln, Höhenberg",Missing,1.0,Missing
+241,420.0,1.0,30.0,50735 Köln, Nein ,1.0, Erdgeschosswohnung 
+242,440.0,1.0,42.0,"50931 Köln, Lindenthal",Missing,1.0, Etagenwohnung 
+243,850.0,2.5,85.0,"50769 Köln, Merkenich", Nach Vereinbarung ,1.0, Erdgeschosswohnung 
+244,770.0,2.5,79.0,"50858 Köln, Junkersdorf",Missing,-1.0, Erdgeschosswohnung 
+245,740.0,2.0,50.0,50733 Köln, Nach Vereinbarung ,1.0, Sonstige 
+246,575.0,2.0,37.0,50672 Köln, Nein ,1.0, Etagenwohnung 
+247,590.0,2.5,65.0,"50933 Köln, Braunsfeld",Missing,1.0, Dachgeschoss 
+248,1590.0,4.0,129.0,50859 Köln,Missing,2.0, Penthouse 
+249,695.0,2.0,77.0,"51065 Köln, Buchheim",Missing,1.0, Etagenwohnung 
+250,752.0,2.0,65.39,"50858 Köln, Junkersdorf",Missing,-1.0, Dachgeschoss 
+251,540.0,2.0,61.0,51067 Köln, Nein ,1.0, Etagenwohnung 
+252,597.0,1.0,40.26,"50969 Köln, Zollstock", Nach Vereinbarung ,1.0,Missing
+253,760.0,3.0,58.0,"50733 Köln, Nippes",Missing,-1.0, Etagenwohnung 
+254,675.0,2.0,50.0,"50676 Köln, Altstadt & Neustadt-Nord", Nach Vereinbarung ,1.0, Etagenwohnung 
+255,456.0,2.0,55.0,51145 Köln, Nach Vereinbarung ,1.0, Etagenwohnung 
+256,892.8,3.0,77.63,"51103 Köln, Deutz",Missing,-1.0, Erdgeschosswohnung 
+257,866.14,3.0,79.0,51103 Köln, Nach Vereinbarung ,1.0, Sonstige 
+258,1156.9,4.0,100.6,"51103 Köln, Deutz",Missing,-1.0, Erdgeschosswohnung 
+259,2000.0,4.0,150.0,"50996 Köln-Rodenkirchen, Köln",Missing,2.0, Hochparterre 
+260,550.0,2.0,60.95,"50859 Köln, Lövenich", Nach Vereinbarung ,1.0, Dachgeschoss 
+261,585.0,2.0,62.8,"51143 Köln, Porz",Missing,1.0, Erdgeschosswohnung 
+262,853.0,2.0,69.4,50733 Köln,Missing,1.0, Erdgeschosswohnung 
+263,915.0,3.0,70.0,"50733 Köln, Nippes", Nein ,1.0, Etagenwohnung 
+264,690.0,1.0,50.0,50672 Köln, Nein ,1.0, Etagenwohnung 
+265,1690.0,3.0,70.0,50672 Köln, Nach Vereinbarung ,2.0, Etagenwohnung 
+266,1750.0,3.0,163.17,50999 Köln / Sürth, Ja ,1.0, Maisonette 
+267,620.0,3.0,61.0,"51065 Köln, Mülheim",Missing,1.0, Etagenwohnung 
+268,704.48,1.0,45.0,"50737 Köln, Weidenpesch",Missing,1.0, Dachgeschoss 
+269,790.0,3.0,71.44,"51103 Köln- Höhenberg, Köln", Ja ,1.0, Etagenwohnung 
+270,760.0,1.0,51.0,50939 Köln,Missing,1.0, Etagenwohnung 
+271,740.0,2.0,49.0,"50668 Köln, Altstadt & Neustadt-Nord", Nein ,1.0, Etagenwohnung 
+272,570.0,2.0,50.0,"50999 Köln, Weiß", Nach Vereinbarung ,1.0, Dachgeschoss 
+273,435.0,3.0,50.53,51105 Köln,Missing,1.0, Etagenwohnung 
+274,575.0,2.0,72.0,51069 Köln, Nach Vereinbarung ,1.0, Etagenwohnung 
+275,1495.0,4.0,130.0,50739 Köln,Missing,2.0, Etagenwohnung 
+276,806.4,4.0,90.0,"51149 Köln, Gremberghoven",Missing,-1.0, Etagenwohnung 
+277,730.0,3.0,75.0,"50827 Köln, Ehrenfeld", Nach Vereinbarung ,1.0, Etagenwohnung 
+278,720.0,3.0,80.0,"51067 Köln, Holweide",Missing,-1.0, Etagenwohnung 
+279,365.0,1.0,40.66,"50968 Köln, Raderthal",Missing,-1.0, Etagenwohnung 
+280,649.0,3.0,68.27,"51067 Köln, Buchheim",Missing,-1.0, Etagenwohnung 
+281,650.0,2.0,65.0,"51149 Köln- Porz, Ensen", Nein ,1.0, Erdgeschosswohnung 
+282,645.0,3.0,76.0,"50769 Köln, Worringen", Nein ,1.0, Etagenwohnung 
+283,750.0,2.5,58.0,"51103 Köln, Höhenberg", Nach Vereinbarung ,1.0, Etagenwohnung 
+284,700.0,3.5,73.0,"51107 Köln, Rath/Heumar", Ja ,1.0, Etagenwohnung 
+285,730.0,4.0,73.0,51069 Köln,Missing,-1.0, Dachgeschoss 
+286,650.0,3.0,60.0,"50996 Köln, Hahnwald",Missing,-1.0, Souterrain 
+287,720.0,2.0,63.0,51143 Köln,Missing,-1.0,Missing
+288,740.0,3.0,85.0,50968 Köln,Missing,1.0, Etagenwohnung 
+289,770.0,3.0,96.0,"50827 Köln, Bickendorf", Nein ,1.0, Etagenwohnung 
+290,950.0,2.0,56.0,50968 Köln,Missing,-1.0, Etagenwohnung 
+291,690.0,3.0,81.0,"50679 Köln, Altstadt & Neustadt-Nord",Missing,-1.0,Missing
+292,890.0,2.0,55.0,50672 Köln,Missing,1.0, Etagenwohnung 
+293,500.0,2.0,50.0,"50733 Köln, Nippes", Nein ,1.0, Dachgeschoss 
+294,700.0,1.0,40.0,50968 Köln,Missing,-1.0, Etagenwohnung 
+295,680.0,2.0,65.0,"50827 Köln, Ehrenfeld", Nach Vereinbarung ,1.0, Etagenwohnung 
+296,496.0,1.0,19.0,"50825 Köln, Ehrenfeld",Missing,-1.0,Missing
+297,750.0,2.0,71.0,"50674 Köln, Altstadt & Neustadt-Süd", Ja ,2.0, Etagenwohnung 
+298,900.0,3.0,88.0,"50829 Köln, Vogelsang", Nein ,1.0, Etagenwohnung 
+299,1070.0,3.5,102.0,51069 Köln, Nach Vereinbarung ,1.0, Maisonette 
+300,720.0,2.0,71.0,51107 Köln,Missing,1.0, Etagenwohnung 
+301,1305.0,4.0,145.0,"51103 Köln, Vingst",Missing,1.0, Etagenwohnung 
+302,510.0,2.0,60.0,50769 Köln / Fühlingen, Nein ,2.0, Souterrain 
+303,800.0,2.0,87.0,"50674 Köln, Altstadt & Neustadt-Süd", Nach Vereinbarung ,1.0, Etagenwohnung 
+304,1500.0,4.0,125.0,"50999 Köln, Weiß",Missing,1.0,Missing
+305,407.0,1.0,37.0,"50968 Köln, Raderberg", Nach Vereinbarung ,1.0, Etagenwohnung 
+306,1350.0,3.0,100.5,"50858 Köln, Junkersdorf",Missing,-1.0, Etagenwohnung 
+307,741.0,3.0,65.0,"50939 Köln, Sülz", Ja ,-1.0, Etagenwohnung 
+308,841.0,3.0,65.0,"50676 Köln, Altstadt & Neustadt-Süd",Missing,-1.0, Etagenwohnung 
+309,1300.0,4.0,125.0,"51069 Köln, Dellbrück", Nach Vereinbarung ,2.0, Maisonette 
+310,631.0,2.0,48.0,50733 Köln / Nippes,Missing,1.0, Etagenwohnung 
+311,1000.0,3.0,81.0,"50674 Köln, Altstadt & Neustadt-Nord", Nein ,1.0, Dachgeschoss 
+312,1100.0,2.5,82.0,"50968 Köln, Bayenthal",Missing,1.0, Etagenwohnung 
+313,1035.0,4.0,115.0,"51103 Köln, Vingst",Missing,1.0, Etagenwohnung 
+314,900.0,3.0,82.0,50968 Köln,Missing,1.0, Etagenwohnung 
+315,340.0,1.0,36.0,"51061 Köln, Stammheim", Ja ,1.0, Souterrain 
+316,799.0,2.0,81.8,"51143 Köln, Porz", Nach Vereinbarung ,1.0, Maisonette 
+317,295.0,2.0,31.0,"51067 Köln, Holweide", Nach Vereinbarung ,1.0, Souterrain 
+318,850.0,3.0,98.0,"50769 Köln, Roggendorf/Thenhoven",Missing,1.0, Dachgeschoss 
+319,2350.0,3.0,117.8,"50674 Köln, Altstadt & Neustadt-Süd", Nein ,1.0, Etagenwohnung 
+320,1125.0,2.0,75.0,50996 köln, Nein ,1.0, Erdgeschosswohnung 
+321,1190.0,4.0,125.0,50739 Köln,Missing,1.0,Missing
+322,470.0,2.0,52.0,"51103 Köln, Kalk", Nach Vereinbarung ,1.0, Etagenwohnung 
+323,980.0,2.0,51.0,"50672 Köln, Altstadt & Neustadt-Nord", Nein ,1.0, Etagenwohnung 
+324,660.0,3.0,60.0,"50733 Köln, Nippes",Missing,1.0, Dachgeschoss 
+325,1365.0,3.0,98.9,50670 Köln,Missing,-1.0, Etagenwohnung 
+326,790.0,2.0,74.0,"50858 Köln - Junkersdorf, Köln",Missing,1.0, Etagenwohnung 
+327,770.0,3.0,70.0,"50968 Köln, Raderberg", Nach Vereinbarung ,1.0, Etagenwohnung 
+328,1188.0,2.0,91.0,"50670 Köln, Altstadt & Neustadt-Nord",Missing,-1.0, Etagenwohnung 
+329,612.0,3.0,72.0,51145 Köln, Nach Vereinbarung ,1.0, Etagenwohnung 
+330,1155.0,3.0,112.0,51061 Köln, Nein ,1.0, Erdgeschosswohnung 
+331,780.0,2.0,65.0,"50668 Köln, Altstadt & Neustadt-Nord", Nach Vereinbarung ,1.0, Etagenwohnung 
+332,1050.0,3.0,89.46,50825 Köln, Nach Vereinbarung ,2.0, Etagenwohnung 
+333,775.0,2.5,50.0,"50823 Köln, Ehrenfeld", Nach Vereinbarung ,1.0, Etagenwohnung 
+334,640.0,3.0,74.0,50767 Köln, Nein ,1.0, Etagenwohnung 
+335,530.0,2.0,58.0,"51065 Köln, Mülheim",Missing,1.0, Hochparterre 
+336,695.0,2.0,49.0,"50733 Köln, Nippes",Missing,1.0, Hochparterre 
+337,710.0,2.5,63.36,"51061 Köln, Flittard",Missing,-1.0, Etagenwohnung 
+338,660.0,2.0,60.0,"51069 Köln Dellbrück, Köln", Nein ,1.0, Dachgeschoss 
+339,3000.0,4.0,150.0,"50678 Köln, Altstadt & Neustadt-Süd",Missing,2.0, Maisonette 
+340,369.0,2.0,30.0,"50733 Köln Nippes, Köln",Missing,1.0,Missing
+341,950.0,3.0,68.0,"50674 Köln, Altstadt & Neustadt-Süd", Nein ,1.0, Erdgeschosswohnung 
+342,1395.0,3.0,120.0,"50674 Köln, Altstadt & Neustadt-Süd", Nach Vereinbarung ,1.0, Dachgeschoss 
+343,650.0,2.0,60.76,"51103 Köln, Höhenberg",Missing,1.0, Etagenwohnung 
+344,1760.0,3.0,131.0,"50968 Köln, Bayenthal", Nach Vereinbarung ,1.0, Erdgeschosswohnung 
+345,630.0,3.0,67.0,51149 Köln, Nein ,1.0, Etagenwohnung 
+346,1330.0,2.0,76.0,50968 Köln, Nach Vereinbarung ,1.0, Etagenwohnung 
+347,845.0,1.0,39.0,"50935 Köln, Lindenthal", Nein ,1.0, Etagenwohnung 
+348,760.0,3.0,95.0,"51145 Köln, Elsdorf", Nein ,1.0, Etagenwohnung 
+349,1070.0,3.0,80.0,50668 Köln,Missing,1.0, Sonstige 
+350,1261.0,3.0,96.0,50859 Köln-Widdersdorf,Missing,1.0, Etagenwohnung 
+351,795.0,2.0,60.0,50733 Köln, Nach Vereinbarung ,1.0, Etagenwohnung 
+352,700.0,2.0,70.0,"50969 Köln, Zollstock", Nein ,1.0, Hochparterre 
+353,650.0,2.0,50.0,"50670 Köln, Altstadt & Neustadt-Nord", Nein ,1.0, Etagenwohnung 
+354,1350.0,3.0,109.78,"50935 Köln, Lindenthal",Missing,-1.0, Etagenwohnung 
+355,500.0,2.0,53.0,51105 Köln, Nach Vereinbarung ,1.0, Erdgeschosswohnung 
+356,750.0,2.0,60.0,"50823 Köln, Neuehrenfeld", Nein ,1.0, Erdgeschosswohnung 
+357,1140.0,2.0,99.47,"50968 Köln, Marienburg", Nach Vereinbarung ,1.0, Etagenwohnung 
+358,930.0,4.0,91.5,"51107 Köln, Rath/Heumar", Nein ,2.0, Maisonette 
+359,950.0,4.0,105.0,"51147 Köln, Wahn",Missing,1.0, Etagenwohnung 
+360,770.0,2.0,80.0,50674 Köln,Missing,1.0, Sonstige 
+361,1150.0,6.0,150.0,50733 Köln,Missing,-1.0, Etagenwohnung 
+362,800.0,3.0,93.0,50858 Köln,Missing,1.0, Etagenwohnung 
+363,1015.0,3.0,81.0,51105 Köln - Poll, Nach Vereinbarung ,1.0, Etagenwohnung 
+364,575.0,1.0,49.0,50859 Köln,Missing,1.0, Etagenwohnung 
+365,580.0,2.0,64.0,"51109 Köln, Ostheim",Missing,-1.0, Etagenwohnung 
+366,1024.0,4.0,128.0,51145 Köln,Missing,2.0,Missing
+367,995.0,2.0,73.0,"50935 Köln, Lindenthal", Nein ,1.0,Missing
+368,640.0,2.0,58.0,50733 Köln,Missing,-1.0, Etagenwohnung 
+369,400.0,1.0,37.0,"50827 Köln, Vogelsang", Nein ,1.0, Etagenwohnung 
+370,1280.0,2.0,105.0,"50827 KÖLN, Bickendorf", Nach Vereinbarung ,1.0, Terrassenwohnung 
+371,520.0,2.0,60.0,50765 Köln,Missing,-1.0, Etagenwohnung 
+372,490.0,1.0,35.0,"50858 Köln-Weiden, Köln",Missing,1.0, Etagenwohnung 
+373,1200.0,3.0,85.0,50996 Köln,Missing,1.0, Erdgeschosswohnung 
+374,1650.0,3.0,139.97,"50997 Köln, Meschenich", Nach Vereinbarung ,2.0,Missing
+375,850.0,3.0,79.29,"50767 Köln, Pesch",Missing,1.0, Etagenwohnung 
+376,680.0,1.0,26.4,"50968 Köln, Marienburg", Nein ,1.0, Etagenwohnung 
+377,375.0,1.0,30.0,51145 Köln,Missing,1.0, Erdgeschosswohnung 
+378,1228.5,3.0,111.68,"50735 Köln, Riehl",Missing,-1.0, Etagenwohnung 
+379,890.0,4.0,100.0,51143 Köln, Nach Vereinbarung ,2.0, Etagenwohnung 
+380,1200.0,3.0,95.0,"50739 Köln, Bilderstöckchen", Nach Vereinbarung ,1.0, Erdgeschosswohnung 
+381,640.0,3.0,65.0,"50767 Köln, Pesch", Nach Vereinbarung ,1.0, Dachgeschoss 
+382,912.1,3.0,79.31,"50858 Köln, Junkersdorf",Missing,-1.0, Etagenwohnung 
+383,1380.0,4.0,120.0,50997 Köln, Nach Vereinbarung ,2.0, Penthouse 
+384,615.0,3.0,67.0,51063 Köln, Nein ,1.0, Etagenwohnung 
+385,578.0,2.0,34.0,"50676 Köln, Altstadt & Neustadt-Süd",Missing,-1.0, Etagenwohnung 
+386,649.0,3.0,68.27,"51067 Köln, Buchheim",Missing,-1.0, Etagenwohnung 
+387,675.0,2.0,75.0,"51063 Köln, Mülheim", Ja ,1.0, Dachgeschoss 
+388,674.0,1.0,40.26,"50969 Köln, Zollstock", Nach Vereinbarung ,1.0, Etagenwohnung 
+389,615.0,2.0,52.0,"50733 Köln, Nippes",Missing,1.0,Missing
+390,752.0,2.0,62.69,"50737 Köln, Longerich", Nach Vereinbarung ,1.0, Etagenwohnung 
+391,1470.0,4.0,123.28,"50931 Köln, Lindenthal",Missing,1.0, Etagenwohnung 
+392,468.6,1.0,44.0,"51149 Köln, Gremberghoven",Missing,-1.0, Erdgeschosswohnung 
+393,737.2,2.0,64.1,"50858 Köln, Junkersdorf",Missing,-1.0, Erdgeschosswohnung 
+394,918.2,3.0,79.84,"50858 Köln, Junkersdorf",Missing,-1.0, Erdgeschosswohnung 
+395,890.0,1.0,41.45,50672 Köln, Nein ,1.0, Etagenwohnung 
+396,350.0,1.0,47.0,51145 Köln, Nein ,1.0,Missing
+397,630.0,1.0,47.0,"50823 Köln, Ehrenfeld",Missing,1.0,Missing
+398,1063.5,4.0,92.48,"50858 Köln, Junkersdorf",Missing,-1.0, Etagenwohnung 
+399,1095.0,3.0,77.0,"50733 Köln, Nippes",Missing,1.0, Etagenwohnung 
+400,810.82,4.0,95.39,"50769 Köln, Seeberg",Missing,-1.0, Etagenwohnung 
+401,1400.0,4.0,101.0,"50678 Köln, Altstadt & Neustadt-Süd", Nach Vereinbarung ,2.0, Dachgeschoss 
+402,1007.37,3.0,98.28,"50737 Köln, Weidenpesch",Missing,-1.0, Etagenwohnung 
+403,480.0,2.0,52.0,"50739 Köln, Bilderstöckchen", Nach Vereinbarung ,1.0, Hochparterre 
+404,656.0,2.0,44.0,"50676 Köln, Altstadt & Neustadt-Süd", Nach Vereinbarung ,1.0, Etagenwohnung 
+405,440.0,1.0,35.0,"50858 Köln, Weiden", Nein ,1.0, Hochparterre 
+406,698.34,3.0,79.81,"50769 Köln, Seeberg",Missing,-1.0, Etagenwohnung 
+407,996.0,4.0,99.58,"51145 Köln, Urbach", Nein ,2.0, Erdgeschosswohnung 
+408,725.0,2.0,68.0,"51065 Köln, Mülheim",Missing,1.0, Terrassenwohnung 
+409,316.0,1.0,49.57,"51145 Köln, Urbach", Nein ,1.0, Etagenwohnung 
+410,618.15,2.0,65.0,"51107 Köln, Vingst",Missing,-1.0, Etagenwohnung 
+411,900.0,3.0,79.0,51103 Köln, Nein ,1.0, Etagenwohnung 
+412,369.0,1.0,35.0,"51067 Köln, Holweide", Nach Vereinbarung ,1.0, Etagenwohnung 
+413,1595.0,5.0,114.0,"50931 Köln, Lindenthal", Nach Vereinbarung ,1.0, Dachgeschoss 
+414,910.0,2.0,70.0,"50678 Köln, Altstadt & Neustadt-Süd", Nach Vereinbarung ,1.0, Dachgeschoss 
+415,900.0,2.0,74.13,"50674 Köln, Altstadt & Neustadt-Süd",Missing,1.0, Etagenwohnung 
+416,750.0,3.0,77.0,50769 Köln - Fühlingen, Nein ,1.0, Maisonette 
+417,670.0,3.0,75.0,"51147 Köln, Lind", Nach Vereinbarung ,1.0, Dachgeschoss 
+418,2150.0,3.0,115.0,"50678 Köln, Altstadt & Neustadt-Süd", Nein ,2.0, Penthouse 
+419,646.0,2.0,34.0,"50676 Köln, Altstadt & Neustadt-Süd",Missing,-1.0, Etagenwohnung 
+420,663.0,3.0,78.0,"51109 Köln-Merheim, Köln", Nein ,1.0, Etagenwohnung 
+421,810.0,2.0,60.0,50823 Köln, Nein ,1.0, Dachgeschoss 
+422,1650.0,4.0,116.0,50677 Köln,Missing,2.0, Etagenwohnung 
+423,565.0,1.0,22.69,"50825 Köln-Ehrenfeld, Köln", Nein ,1.0, Etagenwohnung 
+424,1075.0,2.0,59.0,51149 Köln,Missing,1.0, Penthouse 
+425,1250.0,3.5,96.63,"50859 Köln Widdersdorf, Köln", Nach Vereinbarung ,1.0, Etagenwohnung 
+426,800.0,1.0,34.8,50672 Köln, Nein ,1.0, Etagenwohnung 
+427,1732.98,3.0,102.0,"50968 Köln-Marienburg, Köln", Nein ,1.0, Penthouse 
+428,800.0,3.5,87.11,"50765 Köln, Blumenberg", Nach Vereinbarung ,-1.0, Etagenwohnung 
+429,850.0,2.0,68.0,"50823 Köln, Ehrenfeld",Missing,1.0, Erdgeschosswohnung 
+430,630.0,3.5,80.0,"51145 Köln, Urbach", Nach Vereinbarung ,-1.0, Etagenwohnung 
+431,1739.0,3.0,119.9,50968 Köln, Nach Vereinbarung ,1.0, Etagenwohnung 
+432,680.0,2.0,48.0,"50939 Köln, Sülz", Nach Vereinbarung ,1.0, Dachgeschoss 
+433,813.8,3.0,81.38,"51149 Köln, Gremberghoven", Nein ,1.0, Dachgeschoss 
+434,950.0,3.0,85.0,50767 Köln, Nach Vereinbarung ,1.0, Etagenwohnung 
+435,580.0,2.0,56.16,"50858 Köln, Weiden",Missing,1.0, Dachgeschoss 
+436,510.0,3.0,58.9,"51147 Köln, Grengel", Nein ,1.0, Etagenwohnung 
+437,2330.0,2.0,95.0,"50670 Köln, Altstadt & Neustadt-Nord",Missing,1.0, Etagenwohnung 
+438,720.0,2.0,62.4,50735 Köln-Weidenpesch,Missing,1.0, Sonstige 
+439,970.0,2.0,85.0,"50933 Köln, Müngersdorf", Nach Vereinbarung ,1.0, Etagenwohnung 
+440,980.0,3.0,70.0,50767 Köln, Nein ,1.0, Etagenwohnung 
+441,550.0,3.0,65.0,"51145 Köln, Urbach", Nach Vereinbarung ,1.0, Etagenwohnung 
+442,750.0,2.0,67.0,"50737 Köln, Weidenpesch", Nein ,1.0, Etagenwohnung 
+443,1200.0,3.0,90.0,50823 Köln,Missing,1.0, Etagenwohnung 
+444,790.0,1.5,42.0,"50672 Köln, Altstadt & Neustadt-Nord",Missing,-1.0,Missing
+445,380.0,1.0,29.0,"51149 Köln, Ensen", Nein ,1.0, Etagenwohnung 
+446,1635.0,3.0,131.72,50968 Köln,Missing,-1.0, Etagenwohnung 
+447,750.0,2.0,60.0,"50667 Köln, Altstadt & Neustadt-Nord", Nein ,1.0, Etagenwohnung 
+448,590.0,3.0,76.5,50767 Köln, Nach Vereinbarung ,1.0, Etagenwohnung 
+449,850.0,1.0,43.0,"50939 Köln, Klettenberg", Nein ,1.0, Dachgeschoss 
+450,385.0,2.0,45.0,"51061 Köln, Stammheim", Nach Vereinbarung ,1.0, Dachgeschoss 
+451,1805.0,3.0,157.0,"50737 Köln, Weidenpesch",Missing,1.0, Etagenwohnung 
+452,800.0,3.0,82.0,"50999 Köln, Sürth", Nach Vereinbarung ,1.0, Etagenwohnung 
+453,889.41,3.0,77.34,"51143 Köln, Porz",Missing,1.0, Etagenwohnung 
+454,549.0,1.0,40.0,"50825 Köln, Ehrenfeld", Nach Vereinbarung ,1.0, Terrassenwohnung 
+455,350.0,1.0,30.0,51143 Köln-Porz, Nein ,1.0, Erdgeschosswohnung 
+456,1470.0,4.0,110.0,50997 Köln, Nein ,1.0, Sonstige 
+457,1400.0,4.0,100.0,"50858 Köln, Weiden",Missing,2.0, Maisonette 
+458,1350.0,3.0,103.0,50679 Köln,Missing,1.0, Maisonette 
+459,745.0,2.5,65.33,"51061 Köln, Flittard",Missing,-1.0, Etagenwohnung 
+460,845.0,2.0,47.0,50939 Köln,Missing,1.0, Erdgeschosswohnung 
+461,550.0,2.0,58.0,51105 Köln, Nach Vereinbarung ,1.0, Hochparterre 
+462,972.0,3.0,81.0,"50737 Köln, Weidenpesch",Missing,1.0, Erdgeschosswohnung 
+463,1439.0,3.0,110.0,50859 Köln, Nach Vereinbarung ,1.0, Maisonette 
+464,685.0,3.0,76.0,"51149 Köln, Westhoven", Nein ,1.0, Sonstige 
+465,780.0,3.0,82.65,"51067 Köln, Holweide",Missing,1.0,Missing
+466,3200.0,3.0,130.0,"50678 Köln, Altstadt & Neustadt-Süd",Missing,2.0, Terrassenwohnung 
+467,1540.0,3.0,99.0,50968 Köln,Missing,1.0,Missing
+468,480.0,1.0,41.0,"50670 Köln, Altstadt & Neustadt-Süd",Missing,-1.0, Sonstige 
+469,800.0,3.0,90.0,51103 Köln, Nein ,1.0, Etagenwohnung 
+470,480.0,3.0,63.0,51105 Köln,Missing,-1.0, Etagenwohnung 
+471,1500.0,3.0,107.0,"50678 Köln, Altstadt & Neustadt-Süd",Missing,2.0, Etagenwohnung 
+472,375.0,1.5,25.0,"50931 Köln, Lindenthal",Missing,-1.0, Etagenwohnung 
+473,1100.0,4.0,112.0,"51069 Köln-Dellbrück, Köln", Nein ,1.0, Etagenwohnung 
+474,2750.0,6.0,146.0,50674 Köln,Missing,2.0, Terrassenwohnung 
+475,1008.0,3.0,84.0,"50737 Köln, Weidenpesch",Missing,1.0, Etagenwohnung 
+476,1595.0,3.5,145.0,50933 Köln , Ja ,1.0, Maisonette 
+477,1290.0,3.0,86.13,"50858 Köln, Weiden", Nein ,2.0, Erdgeschosswohnung 
+478,290.0,1.0,16.0,51103 Köln,Missing,1.0,Missing
+479,739.89,2.0,59.99,"50829 Köln, Ossendorf", Nach Vereinbarung ,1.0, Etagenwohnung 
+480,850.0,2.5,85.0,50933 Köln,Missing,1.0, Etagenwohnung 
+481,940.0,3.0,71.0,50939 Köln,Missing,-1.0, Etagenwohnung 
+482,475.0,2.0,50.0,"51103 Köln, Kalk", Nach Vereinbarung ,1.0, Etagenwohnung 
+483,1200.0,2.0,111.4,"50996 Köln, Hahnwald", Nach Vereinbarung ,1.0, Erdgeschosswohnung 
+484,3150.0,4.0,175.0,50674 Köln,Missing,2.0, Penthouse 
+485,630.0,3.0,70.0,"51109 Köln, Merheim",Missing,-1.0, Etagenwohnung 
+486,950.0,3.0,94.0,51063 Köln,Missing,-1.0, Etagenwohnung 
+487,600.0,1.0,36.0,"50937 Köln, Lindenthal", Nein ,1.0, Etagenwohnung 
+488,780.0,3.0,70.0,51109 Köln, Nach Vereinbarung ,1.0, Etagenwohnung 
+489,650.0,2.0,46.0,50733 Köln,Missing,1.0, Souterrain 
+490,1230.0,3.0,73.79,"50968 Köln, Bayenthal",Missing,1.0, Hochparterre 
+491,1090.0,1.0,59.0,50935 Köln-Deckstein/Lindenthal, Nach Vereinbarung ,1.0, Terrassenwohnung 
+492,415.0,1.5,36.0,50969 Köln,Missing,1.0, Etagenwohnung 
+493,725.0,2.0,68.0,51065 Köln,Missing,1.0, Erdgeschosswohnung 
+494,935.0,3.0,90.0,"51109 Köln, Merheim", Nach Vereinbarung ,-1.0, Etagenwohnung 
+495,870.0,2.0,67.0,50931 Köln,Missing,-1.0, Dachgeschoss 
+496,1500.0,3.0,90.0,50969 Köln, Nein ,2.0, Maisonette 
+497,850.0,2.5,69.5,"51069 Köln, Dellbrück",Missing,1.0, Erdgeschosswohnung 
+498,1115.0,4.0,110.0,50735 Köln,Missing,-1.0, Sonstige 
+499,850.0,2.0,65.0,"50764 Köln, Altstadt & Neustadt-Nord", Nach Vereinbarung ,1.0, Dachgeschoss 
+500,850.0,3.0,80.0,51107 Köln,Missing,-1.0,Missing
+501,1100.0,3.0,79.36,"50735 Köln, Niehl", Nein ,2.0, Etagenwohnung 
+502,650.0,2.0,70.0,50997 Köln, Nach Vereinbarung ,1.0, Maisonette 
+503,540.0,1.0,43.0,51103 Köln, Nach Vereinbarung ,1.0, Erdgeschosswohnung 
+504,940.0,1.0,30.0,50674 Köln,Missing,1.0, Etagenwohnung 
+505,795.0,3.0,86.0,51109 Köln, Nach Vereinbarung ,1.0, Etagenwohnung 
+506,3200.0,4.0,170.0,51063 Köln, Nach Vereinbarung ,2.0, Penthouse 
+507,520.0,2.0,50.0,"51103 Köln, Kalk", Nein ,1.0, Erdgeschosswohnung 
+508,3200.0,3.0,130.0,"50678 Köln, Altstadt & Neustadt-Süd",Missing,2.0, Terrassenwohnung 
+509,833.0,2.0,57.67,"50733 Köln, Nippes", Nein ,1.0, Sonstige 
+510,575.0,2.0,53.0,"50739 Köln, Longerich", Nein ,1.0, Etagenwohnung 
+511,2300.0,3.0,125.0,"50678 Köln, Altstadt & Neustadt-Süd",Missing,2.0, Etagenwohnung 
+512,306.25,1.0,49.0,"50937 Köln, Sülz",Missing,-1.0, Etagenwohnung 
+513,1187.5,2.0,87.0,"50937 Köln Sülz, Köln",Missing,1.0, Etagenwohnung 
+514,1210.0,2.0,66.12,"50933 Köln, Müngersdorf",Missing,1.0, Penthouse 
+515,880.0,3.0,57.0,"50670 Köln, Altstadt & Neustadt-Nord", Nach Vereinbarung ,-1.0, Etagenwohnung 
+516,1950.0,3.0,135.73,"50668 Köln, Altstadt & Neustadt-Nord", Nach Vereinbarung ,1.0, Maisonette 
+517,472.5,1.0,35.0,"51067 Köln, Holweide",Missing,-1.0, Etagenwohnung 
+518,650.0,1.0,33.0,"50823 Köln, Neuehrenfeld",Missing,-1.0, Etagenwohnung 
+519,3200.0,4.0,170.0,50679 Köln, Nach Vereinbarung ,2.0, Penthouse 
+520,900.0,2.0,68.2,50996 Köln,Missing,1.0, Dachgeschoss 
+521,749.0,3.0,86.0,50829 Köln,Missing,1.0, Etagenwohnung 
+522,899.0,2.0,60.19,"50968 Köln, Bayenthal",Missing,-1.0, Etagenwohnung 
+523,250.0,1.0,25.0,"51147 Köln, Lind", Nach Vereinbarung ,1.0, Dachgeschoss 
+524,744.0,2.5,65.23,"51061 Köln, Flittard",Missing,-1.0, Etagenwohnung 
+525,1050.0,2.0,72.2,"50672 Köln, Altstadt & Neustadt-Nord", Nach Vereinbarung ,1.0, Dachgeschoss 
+526,550.0,3.0,50.0,"51103 Köln, Kalk",Missing,1.0, Dachgeschoss 
+527,800.0,3.0,68.0,"50733 Köln, Nippes", Nein ,1.0, Etagenwohnung 
+528,1480.0,3.5,140.0,"50996 Köln, Rodenkirchen", Nein ,2.0, Etagenwohnung 
+529,792.0,3.0,72.0,"50767 Köln, Lindweiler",Missing,1.0, Etagenwohnung 
+530,1334.02,3.0,101.88,"50999 Köln, Rodenkirchen",Missing,-1.0, Penthouse 
+531,1000.0,1.0,42.0,"50670 Köln, Altstadt & Neustadt-Nord", Nach Vereinbarung ,1.0, Sonstige 
+532,460.0,1.0,23.0,"50969 Köln, Zollstock", Nein ,1.0, Hochparterre 
+533,1849.0,4.0,147.03,"50968 Köln, Bayenthal",Missing,-1.0, Etagenwohnung 
+534,800.0,2.0,48.0,"50937 Köln, Sülz",Missing,1.0, Erdgeschosswohnung 
+535,975.0,2.0,64.64,"50858 Köln, Junkersdorf",Missing,1.0, Etagenwohnung 
+536,1325.0,2.0,88.36,50670 Köln,Missing,-1.0, Etagenwohnung 
+537,700.0,3.0,79.17,51145 Köln,Missing,-1.0,Missing
+538,1300.0,2.0,78.0,"50667 Köln, Altstadt & Neustadt-Nord", Nach Vereinbarung ,2.0, Terrassenwohnung 
+539,1230.0,4.0,117.0,"50769 Köln-Worringen, Köln", Nach Vereinbarung ,1.0, Maisonette 
+540,600.0,2.0,60.0,50667 Köln,Missing,-1.0, Etagenwohnung 
+541,990.0,2.0,66.0,50968 Köln,Missing,1.0,Missing
+542,495.0,1.0,22.0,50733 Köln,Missing,1.0,Missing
+543,435.0,1.0,23.0,"50823 Köln, Neuehrenfeld",Missing,1.0, Etagenwohnung 
+544,889.0,2.0,84.0,"50858 Köln, Weiden", Ja ,1.0, Etagenwohnung 
+545,790.0,2.0,50.0,50733 Köln,Missing,-1.0, Etagenwohnung 
+546,899.0,2.0,63.88,50676 Köln, Nein ,1.0, Etagenwohnung 
+547,2000.0,3.0,115.0,50667 Köln,Missing,-1.0, Erdgeschosswohnung 
+548,580.0,3.0,75.0,50997 Köln,Missing,1.0, Souterrain 
+549,913.0,2.0,45.65,51065 Köln, Nein ,1.0, Etagenwohnung 
+550,782.0,3.0,68.0,50935 Köln, Nach Vereinbarung ,1.0, Dachgeschoss 
+551,545.0,1.0,29.0,50733 Köln,Missing,1.0,Missing
+552,495.0,2.0,47.0,"51103 Köln, Kalk",Missing,1.0, Etagenwohnung 
+553,825.0,3.0,70.0,51103 Köln,Missing,1.0,Missing
+554,750.0,2.0,50.0,"51065 Köln, Mülheim", Nach Vereinbarung ,-1.0, Etagenwohnung 
+555,550.0,2.0,46.0,"50999 Köln, Weiß", Nach Vereinbarung ,1.0, Dachgeschoss 
+556,710.0,3.0,78.93,"51147 Köln, Wahn", Nach Vereinbarung ,1.0, Etagenwohnung 
+557,1700.0,4.0,170.0,51107 Köln,Missing,2.0, Etagenwohnung 
+558,1900.0,4.5,115.0,"50672 Köln, Altstadt & Neustadt-Nord",Missing,1.0, Sonstige 
+559,800.0,2.5,61.75,50679 Köln, Nein ,1.0, Dachgeschoss 
+560,900.0,2.0,75.0,50999 Köln,Missing,-1.0, Etagenwohnung 
+561,890.0,1.0,22.5,"50931 Köln, Lindenthal", Nein ,1.0, Erdgeschosswohnung 
+562,1800.0,3.0,150.0,"50668 Köln, Altstadt & Neustadt-Nord", Nach Vereinbarung ,2.0, Terrassenwohnung 
+563,890.0,1.0,22.0,"50931 Köln, Lindenthal", Nein ,1.0, Erdgeschosswohnung 
+564,860.0,2.0,68.0,50767 Köln, Nein ,-1.0, Etagenwohnung 
+565,550.0,2.0,38.0,"50668 Köln, Altstadt & Neustadt-Nord",Missing,1.0, Etagenwohnung 
+566,1150.0,3.0,81.0,"50667 Köln, Altstadt & Neustadt-Nord",Missing,1.0, Etagenwohnung 
+567,1350.0,3.5,113.0,50939 Köln,Missing,2.0, Maisonette 
+568,1190.0,1.0,25.0,"50931 Köln, Lindenthal", Nein ,1.0, Etagenwohnung 
+569,1815.0,4.0,103.2,"50935 Köln, Lindenthal", Nein ,2.0, Terrassenwohnung 
+570,1250.0,4.0,125.0,"51109 Köln, Merheim", Nach Vereinbarung ,-1.0, Etagenwohnung 
+571,560.0,1.0,28.0,"50969 Köln, Zollstock", Nein ,1.0, Etagenwohnung 
+572,890.0,1.0,22.5,"50931 Köln, Lindenthal", Nein ,1.0, Erdgeschosswohnung 
+573,1390.0,2.0,43.0,"50931 Köln, Lindenthal", Nein ,1.0, Erdgeschosswohnung 
+574,560.0,1.0,28.0,"50969 Köln, Zollstock", Nein ,1.0, Etagenwohnung 
+575,1050.0,2.0,65.0,"50674 Köln, Altstadt & Neustadt-Süd", Nein ,1.0, Maisonette 
+576,774.0,2.0,86.0,50997 Köln, Nach Vereinbarung ,1.0,Missing
+577,1300.0,3.0,93.0,"50676 Köln, Altstadt & Neustadt-Süd", Nein ,1.0, Erdgeschosswohnung 
+578,630.0,3.0,65.0,"51061 Köln, Flittard", Nein ,1.0, Dachgeschoss 
+579,220.0,1.0,15.0,"51105 Köln, Humboldt/Gremberg",Missing,1.0, Etagenwohnung 
+580,790.0,2.0,61.0,"50858 Köln-Junkersdorf, Köln", Nach Vereinbarung ,1.0, Erdgeschosswohnung 
+581,890.0,1.0,25.0,50931 Köln, Nein ,-1.0,Missing
+582,2500.0,3.0,149.0,"50678 Köln, Altstadt & Neustadt-Süd",Missing,2.0, Etagenwohnung 
+583,1350.0,4.0,105.0,50737 Köln,Missing,1.0, Sonstige 
+584,1050.0,4.0,89.0,50739 Köln, Nein ,1.0, Etagenwohnung 
+585,1000.0,3.0,135.0,"51145 Köln, Eil", Nach Vereinbarung ,1.0, Maisonette 
+586,2100.0,4.0,137.96,"51103 Köln, Kalk", Nein ,2.0,Missing
+587,449.0,2.0,48.0,"51063 Köln, Mülheim", Nach Vereinbarung ,1.0, Etagenwohnung 
+588,520.0,2.5,55.64,"51145 Köln, Eil",Missing,-1.0, Dachgeschoss 
+589,700.0,3.0,75.0,"51061 Köln, Stammheim",Missing,1.0, Etagenwohnung 
+590,590.0,2.0,48.0,50677 Köln, Nein ,1.0, Erdgeschosswohnung 
+591,750.0,2.0,60.0,50996 Köln, Nein ,1.0, Etagenwohnung 
+592,995.0,3.0,88.0,"50827 Köln, Ossendorf, Köln",Missing,1.0, Etagenwohnung 
+593,720.0,3.0,82.0,"50997 Köln, Meschenich", Nein ,1.0, Etagenwohnung 
+594,3115.0,4.0,178.0,50670 Köln, Nach Vereinbarung ,1.0, Etagenwohnung 
+595,650.0,3.0,65.0,50733 Köln, Nein ,1.0, Etagenwohnung 
+596,620.0,2.0,66.5,"51067 Köln, Holweide", Nach Vereinbarung ,1.0, Etagenwohnung 
+597,899.0,2.0,60.0,"50674 Köln, Altstadt & Neustadt-Nord",Missing,-1.0, Etagenwohnung 
+598,1794.0,3.0,131.0,50935 Köln, Ja ,2.0,Missing
+599,420.0,1.0,17.0,51103 Köln,Missing,1.0,Missing
+600,440.0,1.0,22.0,51147 Köln, Nein ,1.0, Etagenwohnung 
+601,976.07,2.0,93.0,"50667 Köln, Altstadt & Neustadt-Nord", Ja ,1.0, Etagenwohnung 
+602,450.0,1.0,24.0,51147 Köln-Wahnheide,Missing,1.0, Dachgeschoss 
+603,625.0,2.0,62.5,"51105 Köln, Poll", Nach Vereinbarung ,1.0, Etagenwohnung 
+604,970.0,4.0,95.0,"50858 Köln, Weiden",Missing,-1.0, Etagenwohnung 
+605,1200.0,3.0,115.0,"50968 Köln, Bayenthal",Missing,1.0, Erdgeschosswohnung 
+606,795.0,2.0,71.35,"51103 Köln, Höhenberg",Missing,1.0, Etagenwohnung 
+607,683.0,2.0,57.0,50733 Köln, Nein ,1.0, Etagenwohnung 
+608,1200.0,3.0,88.0,"50678 Köln, Marienburg",Missing,2.0, Etagenwohnung 
+609,690.0,2.0,61.0,50735 Köln,Missing,1.0, Etagenwohnung 
+610,420.0,1.0,23.0,51147 Köln, Nach Vereinbarung ,1.0, Erdgeschosswohnung 
+611,800.0,3.0,69.0,50933 Köln,Missing,2.0, Dachgeschoss 
+612,940.0,3.0,84.0,"50933 Köln, Braunsfeld", Nein ,1.0, Dachgeschoss 
+613,330.0,1.0,30.0,"50769 Köln Worringen, Köln", Nein ,1.0, Etagenwohnung 
+614,740.0,2.0,63.0,"51063 Köln - Mülheim, Köln",Missing,1.0, Etagenwohnung 
+615,1085.0,3.0,86.6,50935 Köln, Nach Vereinbarung ,1.0, Etagenwohnung 
+616,580.0,1.0,25.0,"50677 Köln, Altstadt & Neustadt-Süd", Nein ,1.0,Missing
+617,1800.0,4.0,143.0,"50674 Köln, Altstadt & Neustadt-Süd",Missing,-1.0, Etagenwohnung 
+618,1950.0,6.0,210.0,"50968 Köln, Marienburg",Missing,2.0, Maisonette 
+619,1000.0,3.0,73.0,50739 Köln,Missing,1.0, Etagenwohnung 
+620,1295.0,3.0,91.0,"50733 Köln, Nippes", Nach Vereinbarung ,1.0, Etagenwohnung 
+621,750.0,3.0,85.0,50859 Köln, Nach Vereinbarung ,1.0, Etagenwohnung 
+622,620.0,1.0,43.0,"50670 Köln, Altstadt & Neustadt-Nord", Nein ,1.0, Etagenwohnung 
+623,1232.0,2.5,84.0,50668 Köln,Missing,1.0,Missing
+624,520.0,1.0,20.0,"50823 Köln, Ehrenfeld", Nach Vereinbarung ,1.0, Dachgeschoss 
+625,1140.0,2.0,60.0,"51063 Köln, Mülheim", Nach Vereinbarung ,1.0, Etagenwohnung 
+626,588.0,2.0,56.0,"50939 Köln, Klettenberg", Nein ,1.0, Hochparterre 
+627,1324.0,4.0,132.0,50769 Köln, Nach Vereinbarung ,1.0, Etagenwohnung 
+628,1490.0,3.0,75.0,"51065 Köln / Mülheim, Köln", Nach Vereinbarung ,1.0, Etagenwohnung 
+629,1015.0,3.5,117.0,51147 Köln, Nein ,2.0, Maisonette 
+630,980.0,2.0,80.0,50679 Köln, Nein ,1.0, Etagenwohnung 
+631,695.0,3.0,80.0,50765 Köln, Nein ,2.0, Dachgeschoss 
+632,700.0,3.0,76.0,"51103 Köln, Vingst",Missing,-1.0, Maisonette 
+633,710.0,3.0,85.0,51061 Köln, Nein ,1.0, Etagenwohnung 
+634,699.0,1.0,26.0,"50676 Köln, Altstadt & Neustadt-Süd", Nein ,1.0, Etagenwohnung 
+635,650.0,3.0,80.0,"51145 Köln, Urbach", Nach Vereinbarung ,-1.0, Etagenwohnung 
+636,680.0,3.0,54.57,"51063 Köln - Mühlheim, Mülheim",Missing,1.0, Etagenwohnung 
+637,610.0,2.0,47.08,"51063 Köln - Mühlheim, Mülheim",Missing,1.0, Erdgeschosswohnung 
+638,1324.0,4.0,132.0,"50769 Köln, Worringen", Nach Vereinbarung ,-1.0, Etagenwohnung 
+639,690.0,3.0,70.0,"51143 Köln, Zündorf",Missing,1.0, Etagenwohnung 
+640,1150.0,2.0,85.0,50937 Köln,Missing,-1.0, Etagenwohnung 
+641,1139.76,4.0,94.98,50735 Köln,Missing,-1.0, Erdgeschosswohnung 
+642,899.0,3.0,93.0,50997 Rondorf, Nach Vereinbarung ,2.0, Etagenwohnung 
+643,595.0,1.0,30.0,50733 Köln,Missing,1.0,Missing
+644,1955.0,3.0,115.0,"50670 Köln, Altstadt & Neustadt-Nord", Nach Vereinbarung ,1.0, Terrassenwohnung 
+645,1048.58,3.0,80.66,50735 Köln,Missing,-1.0, Etagenwohnung 
+646,895.95,2.0,81.45,50739 Köln,Missing,-1.0, Etagenwohnung 
+647,2560.0,5.0,160.0,"50670 Köln, Altstadt & Neustadt-Süd", Nach Vereinbarung ,2.0, Terrassenwohnung 
+648,2560.0,4.0,160.0,"50670 Köln, Altstadt & Neustadt-Süd", Nach Vereinbarung ,2.0, Terrassenwohnung 
+649,550.0,2.0,49.0,"50858 Köln, Weiden", Nach Vereinbarung ,1.0, Etagenwohnung 
+650,785.59,2.0,60.43,50735 Köln,Missing,-1.0, Etagenwohnung 
+651,1095.0,3.0,80.0,"50737 Köln-Weidenpesch, Köln",Missing,1.0, Dachgeschoss 
+652,1140.0,3.5,97.0,"50937 KÖLN, Sülz", Nein ,1.0, Etagenwohnung 
+653,2500.0,2.0,128.0,50674 Köln,Missing,1.0, Etagenwohnung 
+654,700.0,3.0,96.83,51147 Köln,Missing,1.0, Etagenwohnung 
+655,750.0,2.0,62.0,51063 Köln, Nein ,-1.0, Sonstige 
+656,520.0,1.0,52.0,51065 Köln,Missing,1.0, Erdgeschosswohnung 
+657,1725.0,2.0,150.0,50739 Köln,Missing,-1.0, Etagenwohnung 
+658,900.0,2.0,83.98,"50858 Köln, Weiden",Missing,-1.0, Etagenwohnung 
+659,740.0,2.0,68.94,"50735 Köln, Niehl", Nach Vereinbarung ,1.0, Hochparterre 
+660,525.0,2.0,42000000.0,51103 Köln,Missing,1.0, Etagenwohnung 
+661,1850.0,5.0,130.0,50933 Köln,Missing,1.0, Etagenwohnung 
+662,1200.0,3.0,109.0,50769 Köln, Nein ,2.0, Maisonette 
+663,1465.0,3.0,108.0,"50733 Köln, Nippes", Nach Vereinbarung ,1.0,Missing
+664,1900.0,2.0,145.0,50672 Köln, Nach Vereinbarung ,1.0, Etagenwohnung 
+665,771.23,2.0,68.3,"51145 Köln, Urbach", Ja ,1.0, Etagenwohnung 
+666,600.0,1.0,30.0,"50677 Köln, Altstadt & Neustadt-Süd",Missing,-1.0, Etagenwohnung 
+667,1026.0,2.0,76.0,"51143 Köln, Zündorf",Missing,1.0, Etagenwohnung 
+668,1150.0,3.0,92.0,"50679 Köln / Deutz, Köln", Nein ,1.0, Etagenwohnung 
+669,724.5,2.0,63.0,"50769 Köln, Seeberg",Missing,1.0, Etagenwohnung 
+670,950.0,3.0,86.0,"50829 Köln, Ossendorf",Missing,1.0, Etagenwohnung 
+671,980.0,4.0,98.0,50997 Köln, Nein ,-1.0, Etagenwohnung 
+672,825.5,2.0,65.0,"50670 Köln, Altstadt & Neustadt-Nord",Missing,1.0, Etagenwohnung 
+673,1550.0,4.0,130.0,50858 Köln, Nein ,2.0, Hochparterre 
+674,600.0,2.0,32.42,"51105 Köln, Humboldt/Gremberg",Missing,1.0, Etagenwohnung 
+675,699.0,1.0,30.0,"50968 Köln, Bayenthal", Nein ,1.0,Missing
+676,2554.92,5.0,212.91,50968 Köln, Nein ,3.0, Erdgeschosswohnung 
+677,1250.0,3.0,104.0,50933 Köln, Nein ,1.0, Penthouse 
+678,1230.0,3.5,127.5,51143 Köln / Zündorf,Missing,1.0, Dachgeschoss 
+679,700.0,2.0,68.68,"50737 Köln, Weidenpesch", Nein ,1.0, Etagenwohnung 
+680,678.0,4.0,80.0,"50769 Köln, Seeberg", Nach Vereinbarung ,1.0, Etagenwohnung 
+681,595.0,3.0,66.0,"50769 Köln, Seeberg", Nach Vereinbarung ,1.0, Etagenwohnung 
+682,735.0,3.0,67.0,50677 Köln, Nein ,1.0, Etagenwohnung 
+683,1300.0,3.0,107.0,51149 Köln, Nein ,2.0, Maisonette 
+684,649.0,2.0,59.0,"50733 Köln, Nippes", Nein ,1.0, Erdgeschosswohnung 
+685,440.0,1.0,22.0,51147 Köln, Nein ,1.0, Etagenwohnung 
+686,1699.0,4.0,154.0,"50678 Köln, Altstadt & Neustadt-Süd", Nach Vereinbarung ,2.0, Etagenwohnung 
+687,1125.0,2.5,90.0,50823 Köln,Missing,1.0, Etagenwohnung 
+688,2460.0,6.0,145.0,"50676 köln, Altstadt & Neustadt-Süd",Missing,2.0, Etagenwohnung 
+689,1490.0,2.0,85.0,50933 Köln,Missing,1.0, Etagenwohnung 
+690,900.0,2.0,75.0,50733 Köln, Nach Vereinbarung ,1.0, Erdgeschosswohnung 
+691,840.0,1.0,40.0,51105 Köln / Poll, Nach Vereinbarung ,1.0, Etagenwohnung 
+692,690.0,2.0,69.0,"50668 Köln, Altstadt & Neustadt-Nord",Missing,1.0, Etagenwohnung 
+693,620.0,2.0,63.0,50997 Köln,Missing,-1.0, Hochparterre 
+694,1049.0,3.0,73.5,"50939 Köln / Klettenberg, Köln", Nach Vereinbarung ,1.0, Etagenwohnung 
+695,449.0,2.0,48.0,"51063 Köln-Mülheim, Köln", Nach Vereinbarung ,1.0, Etagenwohnung 
+696,1275.0,3.0,110.0,"50674 Köln, Altstadt & Neustadt-Süd",Missing,2.0, Dachgeschoss 
+697,1350.0,4.0,100.0,"50676 köln, Altstadt & Neustadt-Süd",Missing,1.0, Etagenwohnung 
+698,1140.0,2.0,60.0,"51063 Köln, Mülheim", Nach Vereinbarung ,-1.0, Etagenwohnung 
+699,1600.0,3.0,140.0,"50667 Köln, Altstadt & Neustadt-Nord", Nach Vereinbarung ,1.0, Etagenwohnung 
+700,1300.0,2.0,140.0,"50999 Köln, Sürth", Ja ,1.0, Loft 
+701,1490.0,3.0,110.0,51061 Köln / Höhenhaus, Nach Vereinbarung ,-1.0, Etagenwohnung 
+702,590.0,2.0,67.0,50735 Köln, Nein ,1.0, Etagenwohnung 
+703,560.0,1.0,40.0,51103 Köln, Nein ,1.0, Etagenwohnung 
+704,709.0,2.0,69.33,"51069 Köln Dellbrück, Köln", Nein ,1.0, Dachgeschoss 
+705,1650.0,4.0,165.0,"50667 Köln, Altstadt & Neustadt-Nord",Missing,-1.0, Maisonette 
+706,3950.0,4.0,190.0,50678 Köln,Missing,2.0, Maisonette 
+707,785.0,3.0,75.0,51143 Köln, Nein ,1.0, Etagenwohnung 
+708,840.0,3.0,93.0,"51147 Köln, Wahnheide", Nein ,1.0, Etagenwohnung 
+709,1195.0,3.0,105.0,50933 Köln, Nein ,1.0, Maisonette 
+710,1037.0,2.0,76.84,"50668 Köln, Altstadt & Neustadt-Nord",Missing,-1.0,Missing
+711,998.0,3.0,60.0,50829 Köln,Missing,1.0, Etagenwohnung 
+712,1500.0,4.0,160.0,50765 Köln,Missing,2.0, Sonstige 
+713,1495.0,3.0,101.0,"50674 Köln, Altstadt & Neustadt-Nord", Nein ,1.0,Missing
+714,740.0,2.0,74.0,"51149 köln, Gremberghoven", Nein ,1.0, Dachgeschoss 
+715,930.0,2.0,86.11,51067 Köln / Buchheim, Nach Vereinbarung ,1.0, Etagenwohnung 
+716,700.0,3.0,72.65,50737 Köln,Missing,1.0, Erdgeschosswohnung 
+717,500.0,1.0,21.0,"51145 Köln, Urbach", Nein ,1.0, Etagenwohnung 
+718,520.0,1.0,24.0,"50825 Köln, Ehrenfeld",Missing,1.0, Etagenwohnung 
+719,2390.0,3.0,153.0,"50933 Köln, Braunsfeld", Nach Vereinbarung ,2.0, Etagenwohnung 
+720,760.0,2.5,62.0,50733 Köln,Missing,1.0, Etagenwohnung 
+721,470.0,1.0,35.0,51069 Köln,Missing,1.0, Dachgeschoss 
+722,850.0,3.0,79.11,"51147 Köln, Grengel",Missing,1.0, Etagenwohnung 
+723,1850.0,3.0,153.14,"50679 Köln, Deutz", Nach Vereinbarung ,1.0, Etagenwohnung 
+724,650.0,1.0,69.0,"51147 Köln, Lind",Missing,1.0, Terrassenwohnung 
+725,570.0,2.0,60.0,"51143 Köln, Zündorf", Nein ,1.0, Erdgeschosswohnung 
+726,1990.0,3.0,116.0,"50678 Köln, Altstadt & Neustadt-Süd",Missing,2.0, Etagenwohnung 
+727,1095.0,3.0,90.0,"50968 Köln, Marienburg",Missing,-1.0,Missing
+728,1288.0,3.0,104.0,"50933 Köln, Müngersdorf", Nach Vereinbarung ,2.0, Dachgeschoss 
+729,849.0,2.0,35.0,"50676 Köln, Altstadt & Neustadt-Süd", Nein ,1.0, Erdgeschosswohnung 
+730,750.0,1.0,20.0,"50674 Köln, Altstadt & Neustadt-Süd", Nach Vereinbarung ,1.0,Missing
+731,720.0,3.0,72.0,"50739 Köln, Bilderstöckchen", Nach Vereinbarung ,-1.0, Etagenwohnung 
+732,650.0,1.0,50.0,50933 Köln, Nein ,1.0, Erdgeschosswohnung 
+733,748.0,3.0,68.0,"51143 Köln, Zündorf", Nach Vereinbarung ,1.0, Etagenwohnung 
+734,880.0,2.0,65.0,"50679 Köln, Deutz", Nein ,1.0, Etagenwohnung 
+735,650.0,2.0,60.0,"50670 Köln, Altstadt & Neustadt-Nord",Missing,1.0, Sonstige 
+736,1099.0,2.0,53.0,"50674 Köln, Altstadt & Neustadt-Süd", Nein ,-1.0, Etagenwohnung 
+737,3290.0,3.0,100.0,50667 Köln, Nach Vereinbarung ,1.0, Penthouse 
+738,500.0,1.0,21.0,"51145 Köln, Urbach", Nein ,1.0, Etagenwohnung 
+739,405.0,1.0,32.0,"51147 Köln, Wahnheide", Nein ,1.0, Etagenwohnung 
+740,840.0,2.0,50.0,50739 Köln, Nein ,1.0, Etagenwohnung 
+741,1199.77,3.0,109.07,"50968 Köln, Bayenthal", Nach Vereinbarung ,-1.0, Etagenwohnung 
+742,790.0,2.0,54.0,50670 Köln,Missing,1.0, Sonstige 
+743,784.0,3.0,98.0,"50827 Köln, Bickendorf", Nein ,1.0, Etagenwohnung 
+744,399.0,1.0,31.0,"51145 Köln, Urbach", Nein ,1.0, Erdgeschosswohnung 
+745,1190.0,2.0,65.0,"50931 Köln, Lindenthal", Nein ,1.0, Erdgeschosswohnung 
+746,980.0,3.0,92.0,51103 Köln, Nein ,1.0, Etagenwohnung 
+747,779.0,1.0,32.0,"50676 Köln, Altstadt & Neustadt-Süd", Nein ,-1.0,Missing
+748,1490.0,3.0,85.0,50997 Köln, Nach Vereinbarung ,1.0, Penthouse 
+749,980.0,2.5,96.0,"50674 Köln, Altstadt & Neustadt-Süd",Missing,-1.0, Etagenwohnung 
+750,1300.0,3.0,102.0,"50668 Köln, Altstadt & Neustadt-Nord", Nein ,1.0, Etagenwohnung 
+751,800.0,3.0,64.0,50737 Köln,Missing,1.0, Etagenwohnung 
+752,850.0,2.0,54.0,"50667 Köln-Innenstadt, Altstadt & Neustadt-Süd", Nach Vereinbarung ,1.0, Etagenwohnung 
+753,1155.0,2.5,84.0,50668 Köln,Missing,-1.0,Missing
+754,780.0,2.0,75.0,50767 Köln-Heimerdorf, Nein ,1.0, Etagenwohnung 
+755,820.0,2.0,57.0,50670 Köln,Missing,1.0, Etagenwohnung 
+756,550.0,2.0,53.2,"50737 köln, Weidenpesch", Nach Vereinbarung ,1.0, Etagenwohnung 
+757,350.0,1.0,29.7,"51067 Köln-Holweide ( Markt ), Holweide", Nein ,1.0, Etagenwohnung 
+758,2490.0,3.0,100.0,50668 Köln, Nach Vereinbarung ,2.0, Etagenwohnung 
+759,980.0,3.5,95.0,"50968 Köln, Marienburg", Nein ,1.0, Sonstige 
+760,890.0,2.0,50.0,"50678 Köln / City, Altstadt & Neustadt-Süd", Nach Vereinbarung ,1.0, Etagenwohnung 
+761,790.0,1.0,45.0,"51063 Köln, Mülheim", Nach Vereinbarung ,1.0, Etagenwohnung 
+762,1220.0,4.0,134.63,"50769 Köln, Merkenich", Nach Vereinbarung ,1.0, Maisonette 
+763,370.0,2.0,44.51,"51109 Köln, Neubrück",Missing,1.0, Etagenwohnung 
+764,640.0,2.0,66.0,"51145 Köln, Eil", Nein ,1.0, Etagenwohnung 
+765,990.0,1.0,40.0,"50674 Köln, Altstadt & Neustadt-Nord", Nach Vereinbarung ,1.0, Etagenwohnung 
+766,950.0,2.0,50.0,"50678 Köln / City, Altstadt & Neustadt-Süd", Nach Vereinbarung ,1.0, Etagenwohnung 
+767,710.0,2.0,88.77,"51107 Köln, Vingst", Nach Vereinbarung ,1.0, Etagenwohnung 
+768,550.0,2.0,45.0,51109 Köln, Ja ,1.0,Missing
+769,768.0,1.5,54.5,"50968 Köln, Raderberg", Nein ,1.0, Etagenwohnung 
+770,960.0,3.0,95.0,"51067 Köln, Holweide", Nach Vereinbarung ,1.0, Etagenwohnung 
+771,915.0,3.0,93.0,"50997 Köln - Rondorf, Köln", Nein ,1.0, Etagenwohnung 
+772,1190.0,2.0,60.0,"51103 Köln, Kalk", Nach Vereinbarung ,1.0, Etagenwohnung 
+773,1200.0,2.0,61.0,"51069 Köln, Dellbrück", Nach Vereinbarung ,1.0, Erdgeschosswohnung 
+774,990.0,2.0,80.0,"50735 Köln / Riehl, Köln", Nach Vereinbarung ,1.0, Etagenwohnung 
+775,1190.0,2.0,59.0,"50735 Köln / Niehl, Köln", Nach Vereinbarung ,1.0, Etagenwohnung 
+776,1990.0,2.0,100.0,50933 Köln / Braunsfeld, Nach Vereinbarung ,1.0, Etagenwohnung 
+777,950.0,1.0,40.0,"50678 Köln, Altstadt & Neustadt-Süd", Nach Vereinbarung ,-1.0, Etagenwohnung 
+778,990.0,2.0,55.0,"50678 Köln / City, Altstadt & Neustadt-Süd", Nach Vereinbarung ,1.0, Etagenwohnung 
+779,1675.0,4.5,135.0,"50823 Köln, Ehrenfeld", Nach Vereinbarung ,2.0, Dachgeschoss 
+780,1095.0,2.0,72.25,50968 Köln,Missing,1.0, Etagenwohnung 
+781,620.0,1.0,33.6,"50937 Köln, Sülz", Nein ,1.0, Etagenwohnung 
+782,430.0,1.5,31.0,"51103 Köln, Höhenberg", Nach Vereinbarung ,1.0, Etagenwohnung 
+783,910.0,3.5,79.0,"50679 Köln, Deutz", Nein ,1.0, Etagenwohnung 
+784,550.0,2.0,50.0,"50674 Köln, Altstadt & Neustadt-Nord", Nein ,1.0, Etagenwohnung 
+785,1800.0,4.0,137.76,50677 Köln, Nein ,2.0, Etagenwohnung 
+786,560.0,2.0,67.0,"50859 Köln, Lövenich",Missing,1.0, Erdgeschosswohnung 
+787,430.0,1.0,29.75,"50931 Köln, Lindenthal",Missing,-1.0, Etagenwohnung 
+788,2690.0,3.0,140.0,50858 Köln, Nach Vereinbarung ,2.0, Maisonette 
+789,650.0,2.0,35.16,"51105 Köln (Deutz), Humboldt/Gremberg", Nach Vereinbarung ,1.0, Dachgeschoss 
+790,499.0,1.0,26.0,51069 Köln, Nein ,1.0, Etagenwohnung 
+791,980.0,2.0,54.0,"50825 Köln, Ehrenfeld", Nach Vereinbarung ,1.0, Etagenwohnung 
+792,540.0,2.0,50.0,51105 Köln, Nein ,1.0, Dachgeschoss 
+793,690.0,1.0,35.0,"50935 Köln, Lindenthal", Nein ,1.0, Dachgeschoss 
+794,800.0,2.0,61.0,"50829 Köln, Ossendorf", Nach Vereinbarung ,1.0, Erdgeschosswohnung 
+795,1800.0,2.5,99.0,50939 Köln, Nein ,1.0, Etagenwohnung 
+796,1090.0,3.0,87.0,"51105 Köln, Poll",Missing,2.0, Etagenwohnung 
+797,700.0,1.0,35.0,50672 Köln,Missing,1.0, Etagenwohnung 
+798,620.0,3.0,89.04,51145 Köln,Missing,1.0, Etagenwohnung 
+799,1690.0,2.0,85.0,50668 Köln, Nach Vereinbarung ,1.0, Etagenwohnung 
+800,675.0,2.0,72.2,51069 Köln,Missing,1.0, Etagenwohnung 
+801,668.7,2.0,66.87,"51149 köln, Gremberghoven", Nein ,1.0, Etagenwohnung 
+802,749.25,1.0,40.5,"50937 Köln, Sülz", Nein ,-1.0,Missing
+803,3290.0,3.0,130.0,50968 Köln, Nach Vereinbarung ,2.0, Erdgeschosswohnung 
+804,595.0,1.0,29.0,"51063 Köln, Mülheim",Missing,1.0, Etagenwohnung 
+805,480.0,1.0,40.0,50733 Köln, Nein ,1.0, Etagenwohnung 
+806,1090.0,2.0,85.0,50767 Köln / Pesch, Nach Vereinbarung ,1.0, Etagenwohnung 
+807,2890.0,3.0,110.0,50968 Köln,Missing,2.0, Erdgeschosswohnung 
+808,1250.0,3.0,92.0,"50668 Köln, Altstadt & Neustadt-Nord", Nach Vereinbarung ,2.0, Etagenwohnung 
+809,620.0,2.0,52.0,"50674 Köln, Altstadt & Neustadt-Süd", Nein ,1.0, Etagenwohnung 
+810,550.0,1.0,30.0,"50670 Köln, Altstadt & Neustadt-Nord", Nach Vereinbarung ,1.0, Etagenwohnung 
+811,900.0,2.0,60.0,"50968 Köln, Raderberg", Nach Vereinbarung ,1.0, Dachgeschoss 
+812,1190.0,2.0,77.0,"50735 Köln, Niehl",Missing,1.0, Erdgeschosswohnung 
+813,819.28,5.0,111.99,"50825 Köln, Neuehrenfeld", Nein ,2.0, Penthouse 
+814,960.0,3.0,77.0,50678 Köln, Nach Vereinbarung ,1.0, Etagenwohnung 
+815,890.0,1.5,49.0,"51063 Köln, Mülheim",Missing,1.0, Etagenwohnung 
+816,740.0,2.0,43.0,"50670 Köln, Altstadt & Neustadt-Nord", Nach Vereinbarung ,1.0, Erdgeschosswohnung 
+817,830.0,2.0,75.0,"50823 Köln, Neuehrenfeld",Missing,-1.0, Dachgeschoss 
+818,850.0,2.5,63.0,"50996 Köln-Rodenkirchen, Köln", Nein ,1.0, Maisonette 
+819,415.0,1.0,34.8,50679 Köln-Deutz, Nein ,1.0, Etagenwohnung 
+820,520.0,2.0,53.0,"51143 Köln-Porz, Köln", Nach Vereinbarung ,1.0, Etagenwohnung 
+821,990.0,1.0,50.0,"50670 Köln / Neustadt-Nord, Altstadt & Neustadt-Nord",Missing,1.0, Etagenwohnung 
+822,1990.0,2.0,110.0,"50672 Köln, Altstadt & Neustadt-Nord", Nach Vereinbarung ,2.0, Penthouse 
+823,1190.0,1.0,55.0,"50670 Köln / Neustadt-Nord, Altstadt & Neustadt-Nord", Nach Vereinbarung ,1.0, Etagenwohnung 
+824,800.0,2.0,61.0,"50676 Köln, Altstadt & Neustadt-Süd", Nach Vereinbarung ,1.0, Etagenwohnung 
+825,1790.0,3.0,105.0,"50767 Köln / Heimersdorf, Köln", Nach Vereinbarung ,-1.0, Maisonette 
+826,790.0,1.0,30.0,"50672 Köln, Altstadt & Neustadt-Nord", Nach Vereinbarung ,1.0, Etagenwohnung 
+827,1990.0,3.0,100.0,"50678 Köln, Altstadt & Neustadt-Süd", Nach Vereinbarung ,1.0, Penthouse 
+828,1990.0,3.0,100.0,50858 Köln, Nach Vereinbarung ,2.0, Etagenwohnung 
+829,890.0,1.5,45.0,"51063 Köln, Mülheim",Missing,1.0, Etagenwohnung 
+830,490.0,1.0,30.0,"50677 Köln, Altstadt & Neustadt-Süd",Missing,1.0, Sonstige 
+831,2990.0,4.0,150.0,"51067 Köln, Holweide", Nach Vereinbarung ,3.0, Maisonette 
+832,955.0,3.0,77.0,50996 Köln, Nach Vereinbarung ,1.0, Etagenwohnung 
+833,1090.0,2.0,60.0,"51063 Köln, Mülheim",Missing,1.0, Etagenwohnung 
+834,1490.0,3.0,115.0,50096 Köln, Nein ,1.0, Terrassenwohnung 
+835,1690.0,3.0,71.0,50677 Köln,Missing,1.0, Etagenwohnung 
+836,990.0,3.0,82.0,50996 Rodenkirchen, Nach Vereinbarung ,1.0, Etagenwohnung 
+837,1190.0,2.0,70.0,50668 Köln, Nach Vereinbarung ,1.0, Etagenwohnung 
+838,790.0,1.5,40.0,"51063 Köln, Mülheim",Missing,1.0, Etagenwohnung 
+839,1990.0,3.0,105.0,50858 Köln, Nach Vereinbarung ,2.0, Maisonette 
+840,880.0,2.0,68.88,"50935 Köln, Lindenthal",Missing,1.0, Etagenwohnung 
+841,850.0,2.0,46.0,"50968 Köln, Raderberg", Nach Vereinbarung ,1.0, Etagenwohnung 
+842,980.0,3.0,77.0,50968 Köln Bayenthal, Nach Vereinbarung ,1.0, Etagenwohnung 
+843,575.0,2.0,42.0,"51109 Köln, Brück",Missing,1.0, Dachgeschoss 
+844,500.0,1.0,21.0,"51145 Köln, Urbach", Nein ,1.0, Etagenwohnung 
+845,775.0,3.0,75.0,50968 Köln,Missing,1.0, Etagenwohnung 
+846,415.0,1.0,47.0,51109 Köln,Missing,1.0, Etagenwohnung 
+847,510.0,2.0,51.0,"51145 köln, Eil", Ja ,1.0, Terrassenwohnung 
+848,850.0,3.0,86.0,51103 Köln,Missing,1.0,Missing
+849,2190.0,3.0,89.0,"50969 Köln / Zollstock, Köln", Nach Vereinbarung ,1.0, Etagenwohnung 
+850,1690.0,3.0,100.0,50997 Köln, Nach Vereinbarung ,1.0, Penthouse 
+851,980.0,3.0,77.0,50578 Köln, Nach Vereinbarung ,1.0, Etagenwohnung 
+852,349.0,1.0,41.0,"51109 Köln, Neubrück", Nach Vereinbarung ,1.0, Etagenwohnung 
+853,749.7,2.0,63.0,"51063 Köln, Mülheim", Nein ,1.0, Terrassenwohnung 
+854,1790.0,2.0,87.0,"50667 Köln, Altstadt & Neustadt-Nord", Nach Vereinbarung ,1.0, Etagenwohnung 
+855,980.0,3.0,72.0,50935 Sülz, Nach Vereinbarung ,1.0, Etagenwohnung 
+856,750.0,2.0,70.0,50933 Köln, Nein ,1.0, Souterrain 
+857,1150.0,5.0,100.0,50931 Köln, Nein ,1.0, Etagenwohnung 
+858,1050.0,4.0,89.0,50937 Köln, Nach Vereinbarung ,1.0, Etagenwohnung 
+859,1340.0,3.0,111.0,"50858 Köln, Junkersdorf", Nach Vereinbarung ,2.0, Erdgeschosswohnung 
+860,930.0,2.0,78.0,"50676 Köln, Altstadt & Neustadt-Süd", Nein ,1.0, Etagenwohnung 
+861,900.0,3.0,90.0,"50769 Köln, Worringen", Nein ,1.0, Etagenwohnung 
+862,747.0,4.0,90.0,51109 Köln-Neubrück, Nach Vereinbarung ,1.0, Etagenwohnung 
+863,775.0,3.0,88.0,"51069 Köln, Holweide",Missing,1.0, Etagenwohnung 
+864,565.0,2.0,58.0,51063 Köln, Nach Vereinbarung ,1.0, Etagenwohnung 
+865,2575.0,5.0,172.0,"50670 Köln, Altstadt & Neustadt-Nord",Missing,2.0,Missing
+866,520.0,2.0,58.0,"50859 Köln Widdersdorf, Köln", Nein ,1.0, Etagenwohnung 
+867,690.0,2.0,70.0,50859 Köln, Nein ,1.0, Maisonette 
+868,1200.0,3.0,175.0,"51061 Köln-Flittard, Köln",Missing,1.0, Maisonette 
+869,722.5,2.0,85.0,"50933 Köln, Müngersdorf", Nach Vereinbarung ,2.0, Souterrain 
+870,573.0,1.0,42.0,"50968 Köln, Raderberg", Nach Vereinbarung ,1.0, Etagenwohnung 
+871,320.0,1.0,32.0,51107 Köln Rath Heumar, Nein ,1.0, Dachgeschoss 
+872,600.0,3.0,52.0,50935 Köln-Sülz, Nein ,1.0, Etagenwohnung 
+873,465.0,1.0,35.5,"50823 Köln, Ehrenfeld",Missing,-1.0, Etagenwohnung 
+874,578.0,3.0,68.0,"51061 Köln, Flittard", Nein ,1.0, Etagenwohnung 
+875,675.0,2.0,56.0,51067 Köln, Nach Vereinbarung ,1.0, Dachgeschoss 
+876,657.0,2.0,65.0,"50767 Köln , Pesch", Nein ,1.0, Penthouse 
+877,595.0,3.0,78.51,51067 Köln-Holweide, Nein ,1.0, Etagenwohnung 
+878,513.0,3.0,54.0,51063 Köln, Nach Vereinbarung ,2.0, Etagenwohnung 
+879,960.0,3.0,84.0,50769 Köln,Missing,2.0, Etagenwohnung 
+880,940.0,2.0,75.0,"50678 Köln, Altstadt & Neustadt-Süd", Nach Vereinbarung ,1.0, Etagenwohnung 
+881,1832.09,3.0,140.93,50676 Köln,Missing,2.0, Maisonette 
+882,750.0,2.0,65.0,"50997 Köln, Godorf", Nein ,1.0, Erdgeschosswohnung 
+883,570.0,2.0,47.7,"51145 Köln, Elsdorf",Missing,1.0, Dachgeschoss 
+884,830.0,3.0,80.0,50937 Köln, Nein ,1.0, Etagenwohnung 
+885,1080.0,4.0,97.5,"50765 Köln, Esch/Auweiler", Nein ,1.0, Erdgeschosswohnung 
+886,1000.0,3.0,74.0,"50733 Köln Nippes, Köln", Nein ,1.0,Missing
+887,550.0,2.0,50.0,50829 Köln,Missing,1.0, Dachgeschoss 
+888,960.0,3.0,120.0,"50859 Köln, Widdersdorf", Nach Vereinbarung ,2.0, Erdgeschosswohnung 
+889,663.0,2.0,51.0,"50825 Köln, Ehrenfeld", Nach Vereinbarung ,1.0, Erdgeschosswohnung 
+890,690.0,2.5,56.0,"50969 Köln, Zollstock", Nein ,1.0, Etagenwohnung 
+891,1200.0,2.0,145.0,"51065 Köln, Mülheim", Nein ,1.0, Loft 
+892,1080.0,3.0,97.0,"50858 Köln-Weiden, Köln", Nein ,1.0, Erdgeschosswohnung 
+893,1000.0,5.0,130.0,"50739 Köln, Bilderstöckchen", Nach Vereinbarung ,2.0, Etagenwohnung 
+894,350.0,1.0,18.0,"50931 Köln, Lindenthal", Nein ,-1.0,Missing
+895,2500.0,6.0,190.0,"50674 Köln, Altstadt & Neustadt-Süd", Ja ,-1.0, Loft 
+896,550.0,3.0,72.0,"51063 Köln, Mülheim", Nach Vereinbarung ,1.0, Etagenwohnung 
+897,800.0,2.0,48.0,"50825 Köln, Ehrenfeld", Nein ,1.0, Etagenwohnung 
+898,1010.0,3.0,101.0,"50999 Köln, Sürth", Nach Vereinbarung ,1.0, Etagenwohnung 
+899,1286.0,4.0,125.0,"50677 Köln, Altstadt & Neustadt-Süd", Nach Vereinbarung ,2.0, Etagenwohnung 
+900,1667.4,2.0,105.0,"50667 Köln, Altstadt & Neustadt-Nord",Missing,1.0, Loft 
+901,980.0,3.0,105.0,51105 Köln, Nein ,1.0, Etagenwohnung 
+902,1200.0,3.0,100.0,"50939 Köln, Klettenberg",Missing,1.0, Etagenwohnung 
+903,300.0,1.0,20.0,"50933 Köln, Braunsfeld", Nein ,-1.0,Missing
+904,485.0,1.5,35.0,"50739 Köln, Bilderstöckchen", Nein ,1.0, Etagenwohnung 
+905,1950.0,3.0,142.0,50935 Köln-Deckstein/Lindenthal,Missing,2.0, Terrassenwohnung 
+906,850.0,2.0,73.0,"50858 Köln, Junkersdorf", Nach Vereinbarung ,1.0, Etagenwohnung 
+907,490.0,2.0,55.0,"50997 Köln, Godorf", Nein ,1.0, Etagenwohnung 
+908,740.0,2.0,72.0,"51103 Köln, Höhenberg", Nein ,1.0, Etagenwohnung 
+909,485.41,3.0,73.66,"51145 Köln, Urbach", Nein ,1.0, Etagenwohnung 
+910,420.0,1.0,31.0,"50676 Köln, Altstadt & Neustadt-Süd", Nein ,-1.0, Dachgeschoss 
+911,950.0,3.0,80.0,"50668 Köln, Altstadt & Neustadt-Nord",Missing,1.0, Etagenwohnung 
+912,940.0,2.0,65.0,"50676 Köln, Altstadt & Neustadt-Süd", Nein ,2.0, Etagenwohnung 
